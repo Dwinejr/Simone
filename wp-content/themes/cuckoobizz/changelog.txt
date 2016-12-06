@@ -1,0 +1,133 @@
+CuckooBizz Changelog
+
+2013.11.25 - version 1.3
+
+* New Feature / Multiple Portfolios Functionality Added
+* New Feature / Disqus Compatibility Added
+* New Feature / Custom Header/Slider for Any Page Functionality Added
+* New Feature / Super Footer Unit Added
+* New Feature / Background Positioning Feature Added
+* New Feature / Team Member Shortcode Added
+* New Feature / Works Shortcode Added
+* New Feature / Button and Link by ID Shortcode Added
+* New Feature / Map Shortcode Generator Added
+* New Feature / Contact Unit Map Customization Functionality Added
+* Updated / Revolution Slider
+* Updated / Site Loader
+* Minor Bug Fix
+
+Added Folder:
+cuckootap/framework/plugins/cuckoothemes-shortcodes
+
+Added files:
+cuckoobizz/admin/elemets/multiple_portfolio.php
+cuckootap/admin/elemets/shortcode-to-title.php
+cuckootap/admin/shortcodes/team-member.php
+cuckootap/admin/pages/themes.php
+
+Updated Folder:
+cuckoobizz/framework/plugins/revslider
+
+Updated CSS Files:
+cuckoobizz/style.css
+cuckootap/css/nivo-slider.css
+cuckoobizz/css/screens-media.css
+cuckoobizz/admin/css/admin.css
+cuckoobizz/admin/woo/css/style.css
+
+Updated PHP Files: 
+cuckootap/header.php
+cuckootap/home.php
+cuckootap/footer.php
+cuckootap/functions.php
+cuckootap/template-team.php
+cuckootap/templates/fonts.php
+cuckootap/templates/map.php
+cuckootap/templates/main_slideshow.php
+cuckootap/loop/total/template-header.php
+cuckootap/loop/total/load-more.php
+cuckootap/loop/work/portfolio-header.php
+cuckootap/loop/work/by-types-header.php
+cuckootap/loop/work/single-header.php
+cuckootap/loop/work/image-position.php
+cuckootap/loop/work/gallery.php
+cuckootap/loop/post/single-header.php
+cuckootap/loop/testimonials/single-header.php
+cuckootap/loop/team/single-header.php
+cuckootap/loop/team/list-header.php
+cuckootap/admin/admin-functions.php  
+cuckootap/admin/default.php
+cuckootap/admin/admin-ini.php
+cuckootap/admin/configs.php
+cuckootap/admin/pages/admin-builder.php
+cuckootap/admin/pages/admin-color_styles.php
+cuckootap/admin/pages/admin-slideshow.php
+cuckootap/admin/pages/admin-header_footer.php
+cuckootap/admin/pages/admin-fonts.php
+cuckootap/admin/pages/admin-contact.php
+cuckootap/admin/shortcodes/social-button/pinit_shortcodes.php
+cuckootap/admin/shortcodes/slideshow/slideshow.php
+cuckootap/admin/woo/admin-page.php
+
+Updated JS Files:
+cuckootap/admin/shortcodes/settings/shortcodes.js
+cuckootap/js/jquery.cuckoo-scroll.js
+cuckootap/admin/js/admin.js
+cuckootap/admin/js/slider.js
+cuckootap/js/theme_settings.js
+cuckootap/js/ajax.js
+
+Deleted Files:
+cuckoobizz/template-types-225.php
+cuckoobizz/template-types-480.php
+cuckoobizz/admin/elemets/custom-galleries.php
+cuckoobizz/loop/work/by-types-header.php
+
+2013.08.27 - version 1.2
+
+* Revolution Slider Update
+* Layer Slider Update
+* Minor Bug Fix
+
+Updated CSS Files:
+cuckoobizz/style.css
+cuckoobizz/admin/css/admin.css
+
+Updated PHP File:
+cuckoobizz/admin/configs.php
+
+Updated Folders:
+cuckoobizz/framework/plugins/revslider
+cuckoobizz/framework/plugins/LayerSlider
+
+2013.08.01 - version 1.1
+
+* Official WPML Compatibility Added
+* Minor Bug Fix
+
+Added Files:
+cuckoobizz/wpml-config.xml
+cuckoobizz/images/text-qoute.png
+
+Updated CSS File:
+cuckoobizz/style.css
+
+Updated PHP Files:
+cuckoobizz/home.php
+cuckoobizz/footer.php
+cuckoobizz/header.php
+cuckoobizz/loop/post/related.php
+cuckoobizz/loop/work/related.php
+cuckoobizz/loop/team/related.php
+cuckoobizz/template-contact-1.php
+cuckoobizz/template-contact-2.php
+cuckoobizz/admin/configs.php
+cuckoobizz/admin/default.php
+cuckoobizz/admin/pages/admin-framework.php
+cuckoobizz/admin/admin-functions.php
+cuckoobizz/templates/fullwidthslider.php
+cuckoobizz/templates/main_slideshow.php
+
+2013.07.17 - version 1.0
+
+* First release!

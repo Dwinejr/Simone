@@ -78,3 +78,6 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
+/** Coloquei para baixar os plugins localmente e não usar FTP server, remover quando colocar em produção. */
+define('FS_METHOD', 'direct');

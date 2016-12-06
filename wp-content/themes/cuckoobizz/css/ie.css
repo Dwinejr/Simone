@@ -1,0 +1,35 @@
+/* IE (8-9 versions) */
+/* ----------------------------------------- */
+
+	/* header */
+	/* another headers */
+	.item-header { z-index:20; }
+	.works-header { padding:88px 0 175px; }
+	.portfolio-header { padding:88px 0 80px; }
+	
+	/* Nivo */
+/*	#sliderWrappe { top:-88px; } */
+	.main-slider { width:100%; height:auto; } 
+	.ever-like-display { margin-top: 80px; }
+	.nivo-prevNav { left:0px; }
+	.nivo-nextNav { right:0px; }
+	.title-container { width:960px; }
+	.slide-title { font-size:100px; }
+	
+	/* Social media */
+	.social-media-page { margin-right: -39px; }
+	.social-block-page { width:96%; }
+	
+	/* Works */
+	#work-gallery { width:960px; }
+	.slideshow-content { height:475px; max-height:475px; }
+	#work-slides img { height:475px; max-height:475px; }
+	#work-video { width:960px; }
+	#video-content { height:475px; }
+	
+	.back_to_top { display:none!important; }
+	.img-loader { background: url('../images/loading-ie.gif'); background-size:32px; width:32px; height:32px; margin: -16px 0 0 -16px; }
+	
+	
+	/* Footer */
+	.footer-text { width: 100%; }  

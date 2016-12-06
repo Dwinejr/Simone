@@ -1,0 +1,100 @@
+/*
+
+	Supersized - Fullscreen Slideshow jQuery Plugin
+	Version : 3.2.7
+	Site	: www.buildinternet.com/project/supersized
+	
+	Author	: Sam Dunn
+	Company : One Mighty Roar (www.onemightyroar.com)
+	License : MIT License / GPL License
+	
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: medium none;
+}
+
+#fullscreen-homepage {
+	height: 100%; 
+	position: relative;  
+	top: 0;  
+	z-index: 1; 
+	display:block; 
+}
+
+.super-homepage {
+	display: block;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+}
+
+#supersized {  display:block; position:absolute; left:0; top:0; overflow:hidden; z-index:-999; height:100%; width:100%; }
+
+#supersized img { width:auto; height:auto; position:relative; display:none; outline:none; border:none; }
+
+#supersized.speed img { -ms-interpolation-mode:nearest-neighbor; image-rendering: -moz-crisp-edges; }	/*Speed*/
+#supersized.quality img { -ms-interpolation-mode:bicubic; image-rendering: optimizeQuality; }			/*Quality*/
+
+#supersized li {
+    background: #111;
+    display: block;
+    height: 100%;
+    left: 0;
+    list-style: none outside none;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -30;
+}
+#supersized a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+#supersized li.prevslide {
+    z-index: -20;
+}
+#supersized li.activeslide {
+    z-index: -10;
+}
+#supersized li.image-loading {
+    background: url(../images/fullWidth/progress.gif) no-repeat scroll center center #111111;
+    height: 100%;
+    width: 100%;
+}
+#supersized li.image-loading img {
+    visibility: hidden;
+}
+#supersized li.prevslide img, #supersized li.activeslide img {
+    display: inline;
+}
+
+
+/* Progress Bar ----------------------------*/					
+#progress-back{ z-index:5; position:absolute; bottom:0; left:0; height:8px; width:100%; background:url(../images/fullWidth/progress-back.png) repeat-x; }
+#progress-bar{ position:relative; height:8px; width:100%; background:url(../images/fullWidth/progress-bar.png) repeat-x; }
+
+#prevslide, #nextslide{ position:absolute; height:60px; width:60px; top:50%; margin-top:-30px; opacity:0.6; cursor:pointer; }
+#prevslide{ left:0; background:url(../images/arrow-left-blog.png) no-repeat scroll 42% 50% transparent; }
+#nextslide{ right:0; background:url(../images/arrow-right-blog.png) no-repeat scroll 54% 50% transparent }
+
+.container.message { height:100%; display:table; margin:0 auto; }
+.container.message #slidecaption { display:table-cell; vertical-align:middle; }
+.container.message #slidecaption .slide-subtitle { display:block; }
+.container.message #slidecaption h2.slide-title.Left , .container.message #slidecaption .slide-subtitle.Left { text-align:left; }
+.container.message #slidecaption h2.slide-title.Center , .container.message #slidecaption .slide-subtitle.Center { text-align:center; }
+.container.message #slidecaption h2.slide-title.Right , .container.message #slidecaption .slide-subtitle.Right { text-align:right; }
+
+.container.message #slidecaption a.slide-button.Right { float:right; }
+.container.message #slidecaption a.slide-button.Left { float:left; }
+.container.message #slidecaption a.slide-button.Center { float:none; margin:30px auto 0; }
+.container.message #slidecaption div.but { width:100%; display:block; text-align: center; }

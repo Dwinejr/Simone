@@ -1,0 +1,5418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CuckooTap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-11 16:57+0200\n"
+"PO-Revision-Date: 2013-07-11 16:59+0200\n"
+"Last-Translator: cuckoothemes <mario@cuckoothemes.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404"
+msgstr ""
+
+#: ../404.php:18
+msgid "Page not Found.<br /> Apologies, but the page you requested could<br /> not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../archive.php:43
+msgid "Works Archive"
+msgstr ""
+
+#: ../archive.php:45
+#: ../author.php:42
+#: ../category.php:42
+msgid "Blog Post Archives"
+msgstr ""
+
+#: ../archive.php:51
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:53
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:55
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:57
+#, php-format
+msgid "Archives of &ldquo;%s&rdquo; Type"
+msgstr ""
+
+#: ../archive.php:138
+#: ../author.php:59
+#: ../blog-3-column.php:82
+#: ../blog-4-column.php:84
+#: ../blog-full-width-1.php:81
+#: ../blog-full-width-2.php:81
+#: ../blog-with-widget.php:85
+#: ../category.php:58
+#: ../home.php:428
+#: ../home.php:460
+#: ../home.php:483
+msgid "Continue reading"
+msgstr ""
+
+#: ../author.php:44
+#, php-format
+msgid "All Posts by %s"
+msgstr ""
+
+#: ../category.php:44
+#, php-format
+msgid "Archives of &ldquo;%s&rdquo; Category"
+msgstr ""
+
+#: ../comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:26
+msgid "Hide Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Show Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Enter Your Comment Here..."
+msgstr ""
+
+#: ../comments.php:67
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:68
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Required Fields <span class=\"required-span\">*</span><br />Your email will not be published."
+msgstr ""
+
+#: ../comments.php:72
+msgid "Name "
+msgstr ""
+
+#: ../comments.php:73
+msgid "Email "
+msgstr ""
+
+#: ../footer.php:28
+msgid "Back to Top"
+msgstr ""
+
+#: ../functions.php:141
+msgid "Header Navigation"
+msgstr ""
+
+#: ../functions.php:142
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:143
+msgid "Top Right Navigation"
+msgstr ""
+
+#: ../functions.php:248
+#, php-format
+msgid "%s on "
+msgstr ""
+
+#: ../functions.php:250
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:257
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:257
+msgid " said:"
+msgstr ""
+
+#: ../functions.php:257
+msgid "[Edit]"
+msgstr ""
+
+#: ../functions.php:278
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:278
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:295
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: ../functions.php:308
+msgid " in "
+msgstr ""
+
+#: ../functions.php:314
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../functions.php:331
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:333
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../functions.php:335
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../header.php:80
+msgid "Site Navigation"
+msgstr ""
+
+#: ../home.php:257
+#: ../home.php:379
+#: ../home.php:436
+#: ../home.php:850
+msgid "Next"
+msgstr ""
+
+#: ../home.php:258
+#: ../home.php:380
+#: ../home.php:437
+#: ../home.php:851
+msgid "Previuos"
+msgstr ""
+
+#: ../home.php:403
+#: ../home.php:404
+#: ../home.php:507
+#: ../home.php:528
+#: ../home.php:529
+#: ../home.php:549
+#: ../home.php:550
+#: ../home.php:728
+#: ../home.php:731
+#: ../home.php:804
+#: ../home.php:805
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../home.php:583
+msgid "Show All"
+msgstr ""
+
+#: ../home.php:823
+#: ../home.php:919
+msgid "Cart"
+msgstr ""
+
+#: ../home.php:823
+#: ../home.php:920
+msgid "Total"
+msgstr ""
+
+#: ../home.php:823
+#: ../home.php:921
+msgid "My Account"
+msgstr ""
+
+#: ../home.php:823
+#: ../home.php:922
+msgid "Checkout"
+msgstr ""
+
+#: ../search.php:44
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:46
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../search.php:61
+msgid "Posted in "
+msgstr ""
+
+#: ../search.php:77
+msgid "No Comments"
+msgstr ""
+
+#: ../search.php:77
+msgid "1 Comment"
+msgstr ""
+
+#: ../search.php:77
+msgid "% Comments"
+msgstr ""
+
+#: ../tag.php:44
+#, php-format
+msgid "Posts Tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../template-contact-1.php:102
+msgid "Map On"
+msgstr ""
+
+#: ../admin/admin-functions.php:42
+#: ../admin/admin-functions.php:52
+msgid "Search Site"
+msgstr ""
+
+#: ../admin/admin-functions.php:60
+msgid "Search"
+msgstr ""
+
+#: ../admin/admin-functions.php:193
+msgid "<b>No Categories</b>"
+msgstr ""
+
+#: ../admin/admin-functions.php:197
+msgid "<b>No Types</b>"
+msgstr ""
+
+#: ../admin/admin-functions.php:499
+msgid "Please fill in all required fields!"
+msgstr ""
+
+#: ../admin/admin-functions.php:521
+msgid "Your Message Sent Successfully!"
+msgstr ""
+
+#: ../admin/admin-functions.php:524
+msgid "An error has occurred while sending your email!"
+msgstr ""
+
+#: ../admin/admin-hooks.php:13
+#: ../admin/admin-hooks.php:75
+msgid "Homepage Builder"
+msgstr ""
+
+#: ../admin/admin-hooks.php:14
+#: ../admin/admin-hooks.php:76
+msgid "Header & Footer"
+msgstr ""
+
+#: ../admin/admin-hooks.php:15
+#: ../admin/admin-hooks.php:77
+msgid "Color Settings"
+msgstr ""
+
+#: ../admin/admin-hooks.php:16
+#: ../admin/admin-hooks.php:78
+msgid "Theme Fonts"
+msgstr ""
+
+#: ../admin/admin-hooks.php:17
+#: ../admin/admin-hooks.php:79
+msgid "Slideshow Player"
+msgstr ""
+
+#: ../admin/admin-hooks.php:18
+#: ../admin/admin-hooks.php:80
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../admin/admin-hooks.php:19
+#: ../admin/admin-hooks.php:81
+msgid "Sidebars"
+msgstr ""
+
+#: ../admin/admin-hooks.php:20
+#: ../admin/admin-hooks.php:82
+msgid "Social Media"
+msgstr ""
+
+#: ../admin/admin-hooks.php:21
+#: ../admin/admin-hooks.php:83
+msgid "Contact Information"
+msgstr ""
+
+#: ../admin/admin-hooks.php:24
+#: ../admin/admin-hooks.php:86
+msgid "WooCommerce"
+msgstr ""
+
+#: ../admin/admin-hooks.php:32
+msgid "Theme Update"
+msgstr ""
+
+#: ../admin/framework-inc.php:30
+msgid "CuckooThemes Framework V"
+msgstr ""
+
+#: ../admin/team.php:21
+msgid "Team Member Details"
+msgstr ""
+
+#: ../admin/testimonials.php:21
+msgid "Testimonial Author"
+msgstr ""
+
+#: ../admin/testimonials.php:33
+msgid "Testimonial Details"
+msgstr ""
+
+#: ../admin/testimonials.php:45
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/works.php:21
+msgid "Project Content"
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:23
+#: ../admin/elemets/custom-galleries.php:24
+msgid "Gallery by Type"
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:57
+msgid "When using Portfolio 2 Columns by Work Type template or Portfolio 4 Columns by Work Type template, choose Type of Work from Work Types dropdown menu."
+msgstr ""
+
+#: ../admin/elemets/custom-galleries.php:95
+msgid "Portfolio by Work Type"
+msgstr ""
+
+#: ../admin/elemets/sidebar.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../admin/elemets/sidebar.php:218
+msgid "Sidebars is disabled for this group of pages. Please check your Sidebar Settings."
+msgstr ""
+
+#: ../admin/elemets/subtitle.php:56
+#: ../admin/elemets/subtitle.php:57
+#: ../admin/elemets/subtitle.php:58
+#: ../admin/elemets/subtitle.php:59
+msgid "Subtitle"
+msgstr ""
+
+#: ../admin/elemets/testimonials-excerpt-mod.php:20
+#: ../admin/elemets/testimonials-excerpt-mod.php:27
+msgid "Excerpt"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:243
+#: ../admin/pages/admin-color_styles.php:179
+#: ../admin/pages/admin-color_styles.php:192
+#: ../admin/pages/admin-contact.php:72
+#: ../admin/pages/admin-fonts.php:445
+#: ../admin/pages/admin-fonts.php:454
+#: ../admin/pages/admin-framework.php:42
+#: ../admin/pages/admin-gallery.php:125
+#: ../admin/pages/admin-header_footer.php:247
+#: ../admin/pages/admin-sidebars.php:96
+#: ../admin/pages/admin-slideshow.php:180
+#: ../admin/pages/admin-social.php:139
+msgid "New settings saved!"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:255
+msgid "Build Your Homepage"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:262
+msgid "Using "
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:287
+#: ../admin/pages/admin-builder.php:296
+#: ../admin/pages/admin-builder.php:297
+#: ../admin/pages/admin-builder.php:303
+msgid "Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:302
+msgid "Unit Subtitle"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:306
+msgid "Unit Slug"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:310
+msgid "Unit Source"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:325
+msgid "Choose Testimonials Display Option"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:337
+msgid "Enter Number of Testimonials to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:341
+#: ../admin/pages/admin-builder.php:424
+#: ../admin/pages/admin-builder.php:504
+#: ../admin/pages/admin-builder.php:709
+#: ../admin/pages/admin-framework.php:121
+#: ../admin/pages/admin-framework.php:202
+#: ../admin/pages/admin-slideshow.php:523
+msgid "Choose Animation Effect"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:353
+#: ../admin/pages/admin-builder.php:400
+#: ../admin/pages/admin-builder.php:468
+#: ../admin/pages/admin-builder.php:549
+#: ../admin/pages/admin-builder.php:673
+msgid "Choose Sorting"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:373
+msgid "Choose Team Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:384
+msgid "Choose Team Member Categories to be displayed in Homepage Team Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:388
+msgid "Exclude Team Member Categories"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:391
+msgid "Enter a comma-separated list of Team Member Categories that you want to exclude from displaying in Homepage Team Unit. Example: Developers, Designers."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:396
+msgid "Enter Number of Team Members to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:412
+#: ../admin/pages/admin-builder.php:492
+#: ../admin/pages/admin-builder.php:697
+msgid "Carousel Effect"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:443
+msgid "Choose Blog Posts Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:453
+msgid "Choose Posts Category to be displayed in Homepage Blog Posts Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:457
+msgid "Exclude Posts Categories"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:460
+msgid "Enter a comma-separated list of Posts Categories that you want to exclude from displaying in Homepage Blog Posts Unit. Example: Category1, Category2, Category3"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:464
+msgid "Enter Number of Posts to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:480
+msgid "Choose Blog Display Option"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:519
+msgid "Choose Works Gallery Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:530
+msgid "Choose Work Types to be displayed in Homepage Works Gallery Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:534
+msgid "Exclude Works Types"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:537
+msgid "Enter a comma-separated list of Work Types that you want to exclude from displaying in Homepage Works Gallery Unit. Example: Type1, Type2, Type3."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:545
+msgid "Enter Number of Works to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:561
+msgid "Show Works Gallery Filler"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:573
+msgid "Choose Default Works Gallery Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:584
+msgid "Choose Type of Works to be displayed in Works Gallery Unit by default."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:591
+msgid "Page content will be displayed on a Homepage in Page Unit. Enter Page URL. Example: http://www.cuckoothemes.com/page. Important! Only parent site pages content will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:598
+msgid "Enter Your Text"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:602
+#: ../admin/pages/admin-slideshow.php:775
+msgid "Enter Button Title"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:604
+#: ../admin/pages/admin-slideshow.php:777
+msgid "Enter Button URL"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:610
+msgid "Choose Social Media Icons to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:623
+msgid "Choose Unit Display Uptions"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:635
+msgid "Choose WooCommerce Unit Content"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:646
+msgid "Choose between Products or Categories to be displayed in Homepage WooCommerce Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:650
+msgid "Choose Product Category"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:661
+msgid "Choose Product Category to be displayed in Homepage WooCommerce Unit."
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:669
+msgid "Enter Number of Products/Categories to Display"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:685
+msgid "Display Order"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:724
+#: ../admin/pages/admin-builder.php:765
+msgid "Top Padding in Pixels"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:728
+#: ../admin/pages/admin-builder.php:769
+msgid "Bottom Padding in Pixels"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:732
+msgid "HTML Text"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:739
+msgid "Font Size"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:746
+msgid "Enter Map address"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:750
+msgid "Map Zoom"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:754
+msgid "Map Height"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:761
+msgid "Enter Revolution or LayerSlider Shortcode"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:776
+#: ../admin/pages/admin-color_styles.php:626
+#: ../admin/pages/admin-color_styles.php:700
+#: ../admin/pages/admin-color_styles.php:774
+#: ../admin/pages/admin-color_styles.php:848
+#: ../admin/pages/admin-color_styles.php:922
+#: ../admin/pages/admin-color_styles.php:996
+#: ../admin/pages/admin-color_styles.php:1070
+#: ../admin/pages/admin-color_styles.php:1144
+#: ../admin/pages/admin-color_styles.php:1218
+#: ../admin/pages/admin-contact.php:234
+#: ../admin/pages/admin-header_footer.php:1709
+#: ../admin/pages/admin-slideshow.php:369
+#: ../admin/pages/admin-slideshow.php:447
+#: ../admin/pages/admin-social.php:162
+msgid "Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:779
+#: ../admin/pages/admin-builder.php:783
+#: ../admin/pages/admin-color_styles.php:629
+#: ../admin/pages/admin-color_styles.php:633
+#: ../admin/pages/admin-color_styles.php:703
+#: ../admin/pages/admin-color_styles.php:707
+#: ../admin/pages/admin-color_styles.php:777
+#: ../admin/pages/admin-color_styles.php:781
+#: ../admin/pages/admin-color_styles.php:851
+#: ../admin/pages/admin-color_styles.php:855
+#: ../admin/pages/admin-color_styles.php:925
+#: ../admin/pages/admin-color_styles.php:929
+#: ../admin/pages/admin-color_styles.php:999
+#: ../admin/pages/admin-color_styles.php:1003
+#: ../admin/pages/admin-color_styles.php:1073
+#: ../admin/pages/admin-color_styles.php:1077
+#: ../admin/pages/admin-color_styles.php:1147
+#: ../admin/pages/admin-color_styles.php:1151
+#: ../admin/pages/admin-color_styles.php:1221
+#: ../admin/pages/admin-color_styles.php:1225
+#: ../admin/pages/admin-contact.php:237
+#: ../admin/pages/admin-contact.php:241
+#: ../admin/pages/admin-header_footer.php:1712
+#: ../admin/pages/admin-header_footer.php:1716
+#: ../admin/pages/admin-slideshow.php:297
+#: ../admin/pages/admin-slideshow.php:301
+#: ../admin/pages/admin-slideshow.php:372
+#: ../admin/pages/admin-slideshow.php:376
+#: ../admin/pages/admin-slideshow.php:450
+#: ../admin/pages/admin-slideshow.php:454
+#: ../admin/pages/admin-social.php:165
+#: ../admin/pages/admin-social.php:169
+msgid "Parallax Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:780
+#: ../admin/pages/admin-builder.php:782
+#: ../admin/pages/admin-color_styles.php:630
+#: ../admin/pages/admin-color_styles.php:632
+#: ../admin/pages/admin-color_styles.php:704
+#: ../admin/pages/admin-color_styles.php:706
+#: ../admin/pages/admin-color_styles.php:778
+#: ../admin/pages/admin-color_styles.php:780
+#: ../admin/pages/admin-color_styles.php:852
+#: ../admin/pages/admin-color_styles.php:854
+#: ../admin/pages/admin-color_styles.php:926
+#: ../admin/pages/admin-color_styles.php:928
+#: ../admin/pages/admin-color_styles.php:1000
+#: ../admin/pages/admin-color_styles.php:1002
+#: ../admin/pages/admin-color_styles.php:1074
+#: ../admin/pages/admin-color_styles.php:1076
+#: ../admin/pages/admin-color_styles.php:1148
+#: ../admin/pages/admin-color_styles.php:1150
+#: ../admin/pages/admin-color_styles.php:1222
+#: ../admin/pages/admin-color_styles.php:1224
+#: ../admin/pages/admin-contact.php:238
+#: ../admin/pages/admin-contact.php:240
+#: ../admin/pages/admin-header_footer.php:1713
+#: ../admin/pages/admin-header_footer.php:1715
+#: ../admin/pages/admin-slideshow.php:298
+#: ../admin/pages/admin-slideshow.php:300
+#: ../admin/pages/admin-slideshow.php:373
+#: ../admin/pages/admin-slideshow.php:375
+#: ../admin/pages/admin-slideshow.php:451
+#: ../admin/pages/admin-slideshow.php:453
+#: ../admin/pages/admin-social.php:166
+#: ../admin/pages/admin-social.php:168
+msgid "Default Background"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:793
+#: ../admin/pages/admin-color_styles.php:643
+#: ../admin/pages/admin-color_styles.php:717
+#: ../admin/pages/admin-color_styles.php:791
+#: ../admin/pages/admin-color_styles.php:865
+#: ../admin/pages/admin-color_styles.php:939
+#: ../admin/pages/admin-color_styles.php:1013
+#: ../admin/pages/admin-color_styles.php:1087
+#: ../admin/pages/admin-color_styles.php:1161
+#: ../admin/pages/admin-color_styles.php:1235
+#: ../admin/pages/admin-contact.php:251
+#: ../admin/pages/admin-header_footer.php:1726
+#: ../admin/pages/admin-slideshow.php:311
+#: ../admin/pages/admin-slideshow.php:386
+#: ../admin/pages/admin-slideshow.php:464
+#: ../admin/pages/admin-social.php:179
+msgid "Position"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:803
+#: ../admin/pages/admin-color_styles.php:653
+#: ../admin/pages/admin-color_styles.php:727
+#: ../admin/pages/admin-color_styles.php:801
+#: ../admin/pages/admin-color_styles.php:875
+#: ../admin/pages/admin-color_styles.php:949
+#: ../admin/pages/admin-color_styles.php:1023
+#: ../admin/pages/admin-color_styles.php:1097
+#: ../admin/pages/admin-color_styles.php:1171
+#: ../admin/pages/admin-color_styles.php:1245
+#: ../admin/pages/admin-contact.php:261
+#: ../admin/pages/admin-header_footer.php:1736
+#: ../admin/pages/admin-slideshow.php:321
+#: ../admin/pages/admin-slideshow.php:396
+#: ../admin/pages/admin-slideshow.php:474
+#: ../admin/pages/admin-social.php:189
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:813
+#: ../admin/pages/admin-color_styles.php:663
+#: ../admin/pages/admin-color_styles.php:737
+#: ../admin/pages/admin-color_styles.php:811
+#: ../admin/pages/admin-color_styles.php:885
+#: ../admin/pages/admin-color_styles.php:959
+#: ../admin/pages/admin-color_styles.php:1033
+#: ../admin/pages/admin-color_styles.php:1107
+#: ../admin/pages/admin-color_styles.php:1181
+#: ../admin/pages/admin-color_styles.php:1255
+#: ../admin/pages/admin-contact.php:271
+#: ../admin/pages/admin-header_footer.php:1746
+#: ../admin/pages/admin-slideshow.php:331
+#: ../admin/pages/admin-slideshow.php:406
+#: ../admin/pages/admin-slideshow.php:484
+#: ../admin/pages/admin-social.php:199
+msgid "Attachment"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:824
+#: ../admin/pages/admin-color_styles.php:674
+#: ../admin/pages/admin-color_styles.php:748
+#: ../admin/pages/admin-color_styles.php:822
+#: ../admin/pages/admin-color_styles.php:896
+#: ../admin/pages/admin-color_styles.php:970
+#: ../admin/pages/admin-color_styles.php:1044
+#: ../admin/pages/admin-color_styles.php:1118
+#: ../admin/pages/admin-color_styles.php:1192
+#: ../admin/pages/admin-color_styles.php:1266
+#: ../admin/pages/admin-contact.php:282
+#: ../admin/pages/admin-header_footer.php:1757
+#: ../admin/pages/admin-slideshow.php:342
+#: ../admin/pages/admin-slideshow.php:417
+#: ../admin/pages/admin-slideshow.php:495
+#: ../admin/pages/admin-social.php:210
+msgid "Scrolling Speed"
+msgstr ""
+
+#: ../admin/pages/admin-builder.php:830
+#: ../admin/pages/admin-color_styles.php:680
+#: ../admin/pages/admin-color_styles.php:754
+#: ../admin/pages/admin-color_styles.php:828
+#: ../admin/pages/admin-color_styles.php:902
+#: ../admin/pages/admin-color_styles.php:976
+#: ../admin/pages/admin-color_styles.php:1050
+#: ../admin/pages/admin-color_styles.php:1124
+#: ../admin/pages/admin-color_styles.php:1198
+#: ../admin/pages/admin-color_styles.php:1272
+#: ../admin/pages/admin-contact.php:288
+#: ../admin/pages/admin-header_footer.php:470
+#: ../admin/pages/admin-header_footer.php:493
+#: ../admin/pages/admin-header_footer.php:521
+#: ../admin/pages/admin-header_footer.php:546
+#: ../admin/pages/admin-header_footer.php:579
+#: ../admin/pages/admin-header_footer.php:610
+#: ../admin/pages/admin-header_footer.php:1763
+#: ../admin/pages/admin-slideshow.php:423
+#: ../admin/pages/admin-slideshow.php:501
+#: ../admin/pages/admin-social.php:216
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:202
+msgid ""
+"Choose which theme element group you want to customize.<br />\n"
+"\t\t\t\t\t\t\t\tEnter custom color number or click Select a Color button and choose color in a color picker panel.<br />\n"
+"\t\t\t\t\t\t\t\tPick color you need and again click Select a Color button.<br /> \n"
+"\t\t\t\t\t\t\t\tClick Save button after all settings are done.<br /> \n"
+"\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default color settings."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:210
+msgid "Main Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:211
+#: ../admin/pages/admin-fonts.php:471
+msgid "Reset to Default Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:219
+msgid "Color #1"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:227
+msgid "Color #2"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:235
+msgid "Selection Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:246
+msgid "Selection Font Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:254
+msgid "Contact Form Fields Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:265
+msgid "Buttons Color Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:273
+msgid "Default Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:281
+msgid "Map Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:289
+msgid "Reply Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:300
+msgid "Comment Background Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:308
+msgid "Comment Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:316
+msgid "Child Comment Background"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:324
+msgid "Reply Unit Background Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:335
+msgid "Line Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:343
+msgid "Comment Title Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:351
+msgid "Default Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:362
+msgid "Homepage Subtitle Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:370
+msgid "Landing Page Subtitle Line Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:381
+msgid "Body Link Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:389
+msgid "Static"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:397
+#: ../admin/pages/admin-color_styles.php:424
+msgid "Hover"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:405
+#: ../admin/pages/admin-color_styles.php:432
+msgid "Visited"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:416
+msgid "Default Link Colors"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:443
+msgid "Homepage Testimonial Unit Option 2"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:451
+msgid "Background Color of Testimonial Box"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:459
+msgid "Border Color of Testimonial Box"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:470
+msgid "Tag Cloud Widget"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:478
+msgid "Static Tag Background Box Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:486
+msgid "Color of Tag Background Box on Hover"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:497
+msgid "Border Style of Theme Elements"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:504
+msgid " Display 1 px border on images, thumbnails, social media icons and other elements."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:510
+msgid "Thumbnail Hover Effect"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:517
+msgid "Posts Thumbnail"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:536
+msgid "Works Thumbnail"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:552
+msgid "Works Thumbnail Hover Color"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:564
+#: ../admin/pages/admin-header_footer.php:458
+#: ../admin/pages/admin-header_footer.php:481
+#: ../admin/pages/admin-header_footer.php:509
+#: ../admin/pages/admin-header_footer.php:534
+#: ../admin/pages/admin-header_footer.php:563
+#: ../admin/pages/admin-header_footer.php:594
+msgid "Opacity"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:579
+msgid "Team Member Thumbnail"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:595
+msgid "Testimonials Thumbnail"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:612
+msgid "Theme Backgrounds"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:616
+msgid "Posts Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:623
+#: ../admin/pages/admin-color_styles.php:697
+#: ../admin/pages/admin-color_styles.php:771
+#: ../admin/pages/admin-color_styles.php:845
+#: ../admin/pages/admin-color_styles.php:919
+#: ../admin/pages/admin-color_styles.php:993
+#: ../admin/pages/admin-color_styles.php:1067
+#: ../admin/pages/admin-color_styles.php:1141
+#: ../admin/pages/admin-color_styles.php:1215
+#: ../admin/pages/admin-header_footer.php:1706
+msgid "Upload custom background image, set display properties for it. Or leave it blank, and default theme background image will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:690
+msgid "Works Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:764
+msgid "Pages Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:838
+msgid "Team Members Page Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:912
+msgid "Testimonials Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:986
+msgid "Search Page Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:1060
+msgid "Related Posts Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:1134
+msgid "Related Works Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-color_styles.php:1208
+msgid "Related Team Members Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:80
+msgid "Contact Unit Display Settings"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:86
+msgid "Display in Homepage"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:89
+msgid "Display in Landing Pages"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:92
+msgid "Check boxes if you want Contact Unit to be displayed in Homepage and in Landing Pages."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:106
+msgid "Enter Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:109
+msgid "Enter your Address. It will be displayed in the Contact Unit of Homepage and Landing Pages."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:113
+msgid "Enter Contact Details"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:116
+msgid "Enter your Phone, Mobile Phone and Fax Numbers. It will be displayed in the Contact Unit."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:124
+msgid "Enter Primary Email Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:128
+msgid "Email address will be displayed in Contact Unit as your primary contact."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:133
+msgid "Enter Contact Form Email Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:137
+msgid ""
+"All messages sent using contact form in Contact Unit will be delivered to this email address. \n"
+"\t\t\t\t\t\t\t\tIf left blank, WordPress administrator's email address will be used."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:147
+msgid "Enter Website Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:151
+msgid "Website address will be displayed in Contact Unit."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:156
+msgid "Enter Welcome Message"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:159
+msgid "If you want you can enter welcome message. Remember that it will be displayed only when background map is turned off."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:171
+msgid "Display Social Media Icons?"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:176
+#: ../admin/pages/admin-contact.php:182
+#: ../admin/pages/admin-framework.php:59
+#: ../admin/pages/admin-framework.php:63
+#: ../admin/pages/admin-slideshow.php:676
+#: ../admin/pages/admin-slideshow.php:681
+msgid "Yes"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:177
+#: ../admin/pages/admin-contact.php:183
+#: ../admin/pages/admin-framework.php:60
+#: ../admin/pages/admin-framework.php:64
+#: ../admin/pages/admin-slideshow.php:677
+#: ../admin/pages/admin-slideshow.php:680
+msgid "No"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:190
+msgid "Social Media Icons will be displayed in Contact Unit below contact information in the same sequence as they are set in Social Media section of the framework."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:196
+msgid "Google Map"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:199
+msgid "Display Google Map"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:206
+msgid "Enter Your Address"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:210
+msgid "Enter your address, and Google Map will be displayed in the Contact Unit. Example: \"Minster Court, London SE1 7JB, United Kingdom\"."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:215
+msgid "Set Default Zoom Level"
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:219
+msgid "Recommended value ranges from 5 to 15. If left blank, default value will be set on 15."
+msgstr ""
+
+#: ../admin/pages/admin-contact.php:227
+msgid "Contact Unit Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:464
+msgid ""
+" theme provides you with +500 custom fonts from Google.<br />\n"
+"\t\t\t\t\t\t\t\t\tYou can also change a color for each font if needed.<br />\n"
+"\t\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default font settings."
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:470
+msgid "Nivo Slider, FullScreen Slider, FullScreen Image"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:477
+msgid "Slideshow Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:481
+#: ../admin/pages/admin-fonts.php:580
+#: ../admin/pages/admin-fonts.php:684
+#: ../admin/pages/admin-fonts.php:783
+#: ../admin/pages/admin-fonts.php:882
+#: ../admin/pages/admin-fonts.php:981
+#: ../admin/pages/admin-fonts.php:1080
+#: ../admin/pages/admin-fonts.php:1179
+#: ../admin/pages/admin-fonts.php:1278
+#: ../admin/pages/admin-fonts.php:1382
+#: ../admin/pages/admin-fonts.php:1481
+#: ../admin/pages/admin-fonts.php:1580
+#: ../admin/pages/admin-fonts.php:1684
+#: ../admin/pages/admin-fonts.php:1783
+#: ../admin/pages/admin-fonts.php:1887
+#: ../admin/pages/admin-fonts.php:1986
+#: ../admin/pages/admin-fonts.php:2085
+#: ../admin/pages/admin-fonts.php:2189
+#: ../admin/pages/admin-fonts.php:2288
+#: ../admin/pages/admin-fonts.php:2387
+#: ../admin/pages/admin-fonts.php:2491
+#: ../admin/pages/admin-fonts.php:2590
+#: ../admin/pages/admin-fonts.php:2689
+#: ../admin/pages/admin-fonts.php:2793
+#: ../admin/pages/admin-fonts.php:2892
+#: ../admin/pages/admin-fonts.php:2996
+#: ../admin/pages/admin-fonts.php:3095
+#: ../admin/pages/admin-fonts.php:3194
+#: ../admin/pages/admin-fonts.php:3298
+#: ../admin/pages/admin-fonts.php:3397
+#: ../admin/pages/admin-fonts.php:3496
+#: ../admin/pages/admin-fonts.php:3600
+#: ../admin/pages/admin-fonts.php:3699
+#: ../admin/pages/admin-fonts.php:3798
+#: ../admin/pages/admin-fonts.php:3897
+#: ../admin/pages/admin-fonts.php:3996
+#: ../admin/pages/admin-fonts.php:4095
+#: ../admin/pages/admin-fonts.php:4199
+#: ../admin/pages/admin-fonts.php:4298
+#: ../admin/pages/admin-fonts.php:4397
+#: ../admin/pages/admin-fonts.php:4496
+#: ../admin/pages/admin-fonts.php:4595
+#: ../admin/pages/admin-fonts.php:4694
+#: ../admin/pages/admin-fonts.php:4793
+#: ../admin/pages/admin-fonts.php:4892
+#: ../admin/pages/admin-fonts.php:4991
+#: ../admin/pages/admin-gallery.php:235
+#: ../admin/pages/admin-gallery.php:334
+#: ../admin/pages/admin-gallery.php:450
+#: ../admin/pages/admin-gallery.php:549
+#: ../admin/pages/admin-header_footer.php:314
+#: ../admin/pages/admin-header_footer.php:675
+#: ../admin/pages/admin-header_footer.php:774
+#: ../admin/pages/admin-header_footer.php:873
+#: ../admin/pages/admin-header_footer.php:972
+#: ../admin/pages/admin-header_footer.php:1071
+#: ../admin/pages/admin-header_footer.php:1170
+#: ../admin/pages/admin-header_footer.php:1269
+#: ../admin/pages/admin-header_footer.php:1368
+#: ../admin/pages/admin-header_footer.php:1467
+#: ../admin/pages/admin-header_footer.php:1566
+#: ../admin/pages/admin-header_footer.php:1784
+#: ../admin/pages/admin-header_footer.php:1884
+#: ../admin/pages/admin-header_footer.php:1984
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:506
+#: ../admin/pages/admin-fonts.php:605
+#: ../admin/pages/admin-fonts.php:709
+#: ../admin/pages/admin-fonts.php:808
+#: ../admin/pages/admin-fonts.php:907
+#: ../admin/pages/admin-fonts.php:1006
+#: ../admin/pages/admin-fonts.php:1105
+#: ../admin/pages/admin-fonts.php:1204
+#: ../admin/pages/admin-fonts.php:1303
+#: ../admin/pages/admin-fonts.php:1407
+#: ../admin/pages/admin-fonts.php:1506
+#: ../admin/pages/admin-fonts.php:1605
+#: ../admin/pages/admin-fonts.php:1709
+#: ../admin/pages/admin-fonts.php:1808
+#: ../admin/pages/admin-fonts.php:1912
+#: ../admin/pages/admin-fonts.php:2011
+#: ../admin/pages/admin-fonts.php:2110
+#: ../admin/pages/admin-fonts.php:2214
+#: ../admin/pages/admin-fonts.php:2313
+#: ../admin/pages/admin-fonts.php:2412
+#: ../admin/pages/admin-fonts.php:2516
+#: ../admin/pages/admin-fonts.php:2615
+#: ../admin/pages/admin-fonts.php:2714
+#: ../admin/pages/admin-fonts.php:2818
+#: ../admin/pages/admin-fonts.php:2917
+#: ../admin/pages/admin-fonts.php:3021
+#: ../admin/pages/admin-fonts.php:3120
+#: ../admin/pages/admin-fonts.php:3219
+#: ../admin/pages/admin-fonts.php:3323
+#: ../admin/pages/admin-fonts.php:3422
+#: ../admin/pages/admin-fonts.php:3521
+#: ../admin/pages/admin-fonts.php:3625
+#: ../admin/pages/admin-fonts.php:3724
+#: ../admin/pages/admin-fonts.php:3823
+#: ../admin/pages/admin-fonts.php:3922
+#: ../admin/pages/admin-fonts.php:4021
+#: ../admin/pages/admin-fonts.php:4120
+#: ../admin/pages/admin-fonts.php:4224
+#: ../admin/pages/admin-fonts.php:4323
+#: ../admin/pages/admin-fonts.php:4422
+#: ../admin/pages/admin-fonts.php:4521
+#: ../admin/pages/admin-fonts.php:4620
+#: ../admin/pages/admin-fonts.php:4719
+#: ../admin/pages/admin-fonts.php:4818
+#: ../admin/pages/admin-fonts.php:4917
+#: ../admin/pages/admin-fonts.php:5016
+#: ../admin/pages/admin-gallery.php:260
+#: ../admin/pages/admin-gallery.php:359
+#: ../admin/pages/admin-gallery.php:475
+#: ../admin/pages/admin-gallery.php:574
+#: ../admin/pages/admin-header_footer.php:339
+#: ../admin/pages/admin-header_footer.php:700
+#: ../admin/pages/admin-header_footer.php:799
+#: ../admin/pages/admin-header_footer.php:898
+#: ../admin/pages/admin-header_footer.php:997
+#: ../admin/pages/admin-header_footer.php:1096
+#: ../admin/pages/admin-header_footer.php:1195
+#: ../admin/pages/admin-header_footer.php:1294
+#: ../admin/pages/admin-header_footer.php:1393
+#: ../admin/pages/admin-header_footer.php:1492
+#: ../admin/pages/admin-header_footer.php:1591
+#: ../admin/pages/admin-header_footer.php:1809
+#: ../admin/pages/admin-header_footer.php:1909
+#: ../admin/pages/admin-header_footer.php:2009
+msgid "Weight"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:521
+#: ../admin/pages/admin-fonts.php:620
+#: ../admin/pages/admin-fonts.php:724
+#: ../admin/pages/admin-fonts.php:823
+#: ../admin/pages/admin-fonts.php:922
+#: ../admin/pages/admin-fonts.php:1021
+#: ../admin/pages/admin-fonts.php:1120
+#: ../admin/pages/admin-fonts.php:1219
+#: ../admin/pages/admin-fonts.php:1318
+#: ../admin/pages/admin-fonts.php:1422
+#: ../admin/pages/admin-fonts.php:1521
+#: ../admin/pages/admin-fonts.php:1620
+#: ../admin/pages/admin-fonts.php:1724
+#: ../admin/pages/admin-fonts.php:1823
+#: ../admin/pages/admin-fonts.php:1927
+#: ../admin/pages/admin-fonts.php:2026
+#: ../admin/pages/admin-fonts.php:2125
+#: ../admin/pages/admin-fonts.php:2229
+#: ../admin/pages/admin-fonts.php:2328
+#: ../admin/pages/admin-fonts.php:2427
+#: ../admin/pages/admin-fonts.php:2531
+#: ../admin/pages/admin-fonts.php:2630
+#: ../admin/pages/admin-fonts.php:2729
+#: ../admin/pages/admin-fonts.php:2833
+#: ../admin/pages/admin-fonts.php:2932
+#: ../admin/pages/admin-fonts.php:3036
+#: ../admin/pages/admin-fonts.php:3135
+#: ../admin/pages/admin-fonts.php:3234
+#: ../admin/pages/admin-fonts.php:3338
+#: ../admin/pages/admin-fonts.php:3437
+#: ../admin/pages/admin-fonts.php:3536
+#: ../admin/pages/admin-fonts.php:3640
+#: ../admin/pages/admin-fonts.php:3739
+#: ../admin/pages/admin-fonts.php:3838
+#: ../admin/pages/admin-fonts.php:3937
+#: ../admin/pages/admin-fonts.php:4036
+#: ../admin/pages/admin-fonts.php:4135
+#: ../admin/pages/admin-fonts.php:4239
+#: ../admin/pages/admin-fonts.php:4338
+#: ../admin/pages/admin-fonts.php:4437
+#: ../admin/pages/admin-fonts.php:4536
+#: ../admin/pages/admin-fonts.php:4635
+#: ../admin/pages/admin-fonts.php:4734
+#: ../admin/pages/admin-fonts.php:4833
+#: ../admin/pages/admin-fonts.php:4932
+#: ../admin/pages/admin-fonts.php:5031
+#: ../admin/pages/admin-gallery.php:275
+#: ../admin/pages/admin-gallery.php:374
+#: ../admin/pages/admin-gallery.php:490
+#: ../admin/pages/admin-gallery.php:589
+#: ../admin/pages/admin-header_footer.php:354
+#: ../admin/pages/admin-header_footer.php:715
+#: ../admin/pages/admin-header_footer.php:814
+#: ../admin/pages/admin-header_footer.php:913
+#: ../admin/pages/admin-header_footer.php:1012
+#: ../admin/pages/admin-header_footer.php:1111
+#: ../admin/pages/admin-header_footer.php:1210
+#: ../admin/pages/admin-header_footer.php:1309
+#: ../admin/pages/admin-header_footer.php:1408
+#: ../admin/pages/admin-header_footer.php:1507
+#: ../admin/pages/admin-header_footer.php:1606
+#: ../admin/pages/admin-header_footer.php:1824
+#: ../admin/pages/admin-header_footer.php:1924
+#: ../admin/pages/admin-header_footer.php:2024
+msgid "Style"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:536
+#: ../admin/pages/admin-fonts.php:635
+#: ../admin/pages/admin-fonts.php:739
+#: ../admin/pages/admin-fonts.php:838
+#: ../admin/pages/admin-fonts.php:937
+#: ../admin/pages/admin-fonts.php:1036
+#: ../admin/pages/admin-fonts.php:1135
+#: ../admin/pages/admin-fonts.php:1234
+#: ../admin/pages/admin-fonts.php:1333
+#: ../admin/pages/admin-fonts.php:1437
+#: ../admin/pages/admin-fonts.php:1536
+#: ../admin/pages/admin-fonts.php:1635
+#: ../admin/pages/admin-fonts.php:1739
+#: ../admin/pages/admin-fonts.php:1838
+#: ../admin/pages/admin-fonts.php:1942
+#: ../admin/pages/admin-fonts.php:2041
+#: ../admin/pages/admin-fonts.php:2140
+#: ../admin/pages/admin-fonts.php:2244
+#: ../admin/pages/admin-fonts.php:2343
+#: ../admin/pages/admin-fonts.php:2442
+#: ../admin/pages/admin-fonts.php:2546
+#: ../admin/pages/admin-fonts.php:2645
+#: ../admin/pages/admin-fonts.php:2744
+#: ../admin/pages/admin-fonts.php:2848
+#: ../admin/pages/admin-fonts.php:2947
+#: ../admin/pages/admin-fonts.php:3051
+#: ../admin/pages/admin-fonts.php:3150
+#: ../admin/pages/admin-fonts.php:3249
+#: ../admin/pages/admin-fonts.php:3353
+#: ../admin/pages/admin-fonts.php:3452
+#: ../admin/pages/admin-fonts.php:3551
+#: ../admin/pages/admin-fonts.php:3655
+#: ../admin/pages/admin-fonts.php:3754
+#: ../admin/pages/admin-fonts.php:3853
+#: ../admin/pages/admin-fonts.php:3952
+#: ../admin/pages/admin-fonts.php:4051
+#: ../admin/pages/admin-fonts.php:4150
+#: ../admin/pages/admin-fonts.php:4254
+#: ../admin/pages/admin-fonts.php:4353
+#: ../admin/pages/admin-fonts.php:4452
+#: ../admin/pages/admin-fonts.php:4551
+#: ../admin/pages/admin-fonts.php:4650
+#: ../admin/pages/admin-fonts.php:4749
+#: ../admin/pages/admin-fonts.php:4848
+#: ../admin/pages/admin-fonts.php:4947
+#: ../admin/pages/admin-fonts.php:5046
+#: ../admin/pages/admin-gallery.php:290
+#: ../admin/pages/admin-gallery.php:389
+#: ../admin/pages/admin-gallery.php:505
+#: ../admin/pages/admin-gallery.php:604
+#: ../admin/pages/admin-header_footer.php:369
+#: ../admin/pages/admin-header_footer.php:730
+#: ../admin/pages/admin-header_footer.php:829
+#: ../admin/pages/admin-header_footer.php:928
+#: ../admin/pages/admin-header_footer.php:1027
+#: ../admin/pages/admin-header_footer.php:1126
+#: ../admin/pages/admin-header_footer.php:1225
+#: ../admin/pages/admin-header_footer.php:1324
+#: ../admin/pages/admin-header_footer.php:1423
+#: ../admin/pages/admin-header_footer.php:1522
+#: ../admin/pages/admin-header_footer.php:1621
+#: ../admin/pages/admin-header_footer.php:1839
+#: ../admin/pages/admin-header_footer.php:1939
+#: ../admin/pages/admin-header_footer.php:2039
+msgid "Size"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:552
+#: ../admin/pages/admin-fonts.php:651
+#: ../admin/pages/admin-fonts.php:755
+#: ../admin/pages/admin-fonts.php:854
+#: ../admin/pages/admin-fonts.php:953
+#: ../admin/pages/admin-fonts.php:1052
+#: ../admin/pages/admin-fonts.php:1151
+#: ../admin/pages/admin-fonts.php:1250
+#: ../admin/pages/admin-fonts.php:1349
+#: ../admin/pages/admin-fonts.php:1453
+#: ../admin/pages/admin-fonts.php:1552
+#: ../admin/pages/admin-fonts.php:1651
+#: ../admin/pages/admin-fonts.php:1755
+#: ../admin/pages/admin-fonts.php:1854
+#: ../admin/pages/admin-fonts.php:1958
+#: ../admin/pages/admin-fonts.php:2057
+#: ../admin/pages/admin-fonts.php:2156
+#: ../admin/pages/admin-fonts.php:2260
+#: ../admin/pages/admin-fonts.php:2359
+#: ../admin/pages/admin-fonts.php:2458
+#: ../admin/pages/admin-fonts.php:2562
+#: ../admin/pages/admin-fonts.php:2661
+#: ../admin/pages/admin-fonts.php:2760
+#: ../admin/pages/admin-fonts.php:2864
+#: ../admin/pages/admin-fonts.php:2963
+#: ../admin/pages/admin-fonts.php:3067
+#: ../admin/pages/admin-fonts.php:3166
+#: ../admin/pages/admin-fonts.php:3265
+#: ../admin/pages/admin-fonts.php:3369
+#: ../admin/pages/admin-fonts.php:3468
+#: ../admin/pages/admin-fonts.php:3567
+#: ../admin/pages/admin-fonts.php:3671
+#: ../admin/pages/admin-fonts.php:3770
+#: ../admin/pages/admin-fonts.php:3869
+#: ../admin/pages/admin-fonts.php:3968
+#: ../admin/pages/admin-fonts.php:4067
+#: ../admin/pages/admin-fonts.php:4166
+#: ../admin/pages/admin-fonts.php:4270
+#: ../admin/pages/admin-fonts.php:4369
+#: ../admin/pages/admin-fonts.php:4468
+#: ../admin/pages/admin-fonts.php:4567
+#: ../admin/pages/admin-fonts.php:4666
+#: ../admin/pages/admin-fonts.php:4765
+#: ../admin/pages/admin-fonts.php:4864
+#: ../admin/pages/admin-fonts.php:4963
+#: ../admin/pages/admin-fonts.php:5062
+#: ../admin/pages/admin-gallery.php:306
+#: ../admin/pages/admin-gallery.php:405
+#: ../admin/pages/admin-gallery.php:521
+#: ../admin/pages/admin-gallery.php:620
+#: ../admin/pages/admin-header_footer.php:385
+#: ../admin/pages/admin-header_footer.php:746
+#: ../admin/pages/admin-header_footer.php:845
+#: ../admin/pages/admin-header_footer.php:944
+#: ../admin/pages/admin-header_footer.php:1043
+#: ../admin/pages/admin-header_footer.php:1142
+#: ../admin/pages/admin-header_footer.php:1241
+#: ../admin/pages/admin-header_footer.php:1340
+#: ../admin/pages/admin-header_footer.php:1439
+#: ../admin/pages/admin-header_footer.php:1538
+#: ../admin/pages/admin-header_footer.php:1637
+#: ../admin/pages/admin-header_footer.php:1855
+#: ../admin/pages/admin-header_footer.php:1955
+#: ../admin/pages/admin-header_footer.php:2055
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:558
+#: ../admin/pages/admin-fonts.php:657
+#: ../admin/pages/admin-fonts.php:761
+#: ../admin/pages/admin-fonts.php:860
+#: ../admin/pages/admin-fonts.php:959
+#: ../admin/pages/admin-fonts.php:1058
+#: ../admin/pages/admin-fonts.php:1157
+#: ../admin/pages/admin-fonts.php:1256
+#: ../admin/pages/admin-fonts.php:1355
+#: ../admin/pages/admin-fonts.php:1459
+#: ../admin/pages/admin-fonts.php:1558
+#: ../admin/pages/admin-fonts.php:1657
+#: ../admin/pages/admin-fonts.php:1761
+#: ../admin/pages/admin-fonts.php:1860
+#: ../admin/pages/admin-fonts.php:1964
+#: ../admin/pages/admin-fonts.php:2063
+#: ../admin/pages/admin-fonts.php:2162
+#: ../admin/pages/admin-fonts.php:2266
+#: ../admin/pages/admin-fonts.php:2365
+#: ../admin/pages/admin-fonts.php:2464
+#: ../admin/pages/admin-fonts.php:2568
+#: ../admin/pages/admin-fonts.php:2667
+#: ../admin/pages/admin-fonts.php:2766
+#: ../admin/pages/admin-fonts.php:2870
+#: ../admin/pages/admin-fonts.php:2969
+#: ../admin/pages/admin-fonts.php:3073
+#: ../admin/pages/admin-fonts.php:3172
+#: ../admin/pages/admin-fonts.php:3271
+#: ../admin/pages/admin-fonts.php:3375
+#: ../admin/pages/admin-fonts.php:3474
+#: ../admin/pages/admin-fonts.php:3573
+#: ../admin/pages/admin-fonts.php:3677
+#: ../admin/pages/admin-fonts.php:3776
+#: ../admin/pages/admin-fonts.php:3875
+#: ../admin/pages/admin-fonts.php:3974
+#: ../admin/pages/admin-fonts.php:4073
+#: ../admin/pages/admin-fonts.php:4172
+#: ../admin/pages/admin-fonts.php:4276
+#: ../admin/pages/admin-fonts.php:4375
+#: ../admin/pages/admin-fonts.php:4474
+#: ../admin/pages/admin-fonts.php:4573
+#: ../admin/pages/admin-fonts.php:4672
+#: ../admin/pages/admin-fonts.php:4771
+#: ../admin/pages/admin-fonts.php:4870
+#: ../admin/pages/admin-fonts.php:4969
+#: ../admin/pages/admin-fonts.php:5068
+#: ../admin/pages/admin-gallery.php:312
+#: ../admin/pages/admin-gallery.php:411
+#: ../admin/pages/admin-gallery.php:527
+#: ../admin/pages/admin-gallery.php:626
+#: ../admin/pages/admin-header_footer.php:391
+#: ../admin/pages/admin-header_footer.php:752
+#: ../admin/pages/admin-header_footer.php:851
+#: ../admin/pages/admin-header_footer.php:950
+#: ../admin/pages/admin-header_footer.php:1049
+#: ../admin/pages/admin-header_footer.php:1148
+#: ../admin/pages/admin-header_footer.php:1247
+#: ../admin/pages/admin-header_footer.php:1346
+#: ../admin/pages/admin-header_footer.php:1445
+#: ../admin/pages/admin-header_footer.php:1544
+#: ../admin/pages/admin-header_footer.php:1643
+#: ../admin/pages/admin-header_footer.php:1861
+#: ../admin/pages/admin-header_footer.php:1961
+#: ../admin/pages/admin-header_footer.php:2061
+msgid "Font Color"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:567
+#: ../admin/pages/admin-fonts.php:666
+#: ../admin/pages/admin-fonts.php:770
+#: ../admin/pages/admin-fonts.php:869
+#: ../admin/pages/admin-fonts.php:968
+#: ../admin/pages/admin-fonts.php:1067
+#: ../admin/pages/admin-fonts.php:1166
+#: ../admin/pages/admin-fonts.php:1265
+#: ../admin/pages/admin-fonts.php:1364
+#: ../admin/pages/admin-fonts.php:1468
+#: ../admin/pages/admin-fonts.php:1567
+#: ../admin/pages/admin-fonts.php:1666
+#: ../admin/pages/admin-fonts.php:1770
+#: ../admin/pages/admin-fonts.php:1869
+#: ../admin/pages/admin-fonts.php:1973
+#: ../admin/pages/admin-fonts.php:2072
+#: ../admin/pages/admin-fonts.php:2171
+#: ../admin/pages/admin-fonts.php:2275
+#: ../admin/pages/admin-fonts.php:2374
+#: ../admin/pages/admin-fonts.php:2473
+#: ../admin/pages/admin-fonts.php:2577
+#: ../admin/pages/admin-fonts.php:2676
+#: ../admin/pages/admin-fonts.php:2775
+#: ../admin/pages/admin-fonts.php:2879
+#: ../admin/pages/admin-fonts.php:2978
+#: ../admin/pages/admin-fonts.php:3082
+#: ../admin/pages/admin-fonts.php:3181
+#: ../admin/pages/admin-fonts.php:3280
+#: ../admin/pages/admin-fonts.php:3384
+#: ../admin/pages/admin-fonts.php:3483
+#: ../admin/pages/admin-fonts.php:3582
+#: ../admin/pages/admin-fonts.php:3686
+#: ../admin/pages/admin-fonts.php:3785
+#: ../admin/pages/admin-fonts.php:3884
+#: ../admin/pages/admin-fonts.php:3983
+#: ../admin/pages/admin-fonts.php:4082
+#: ../admin/pages/admin-fonts.php:4181
+#: ../admin/pages/admin-fonts.php:4285
+#: ../admin/pages/admin-fonts.php:4384
+#: ../admin/pages/admin-fonts.php:4483
+#: ../admin/pages/admin-fonts.php:4582
+#: ../admin/pages/admin-fonts.php:4681
+#: ../admin/pages/admin-fonts.php:4780
+#: ../admin/pages/admin-fonts.php:4879
+#: ../admin/pages/admin-fonts.php:4978
+#: ../admin/pages/admin-fonts.php:5077
+#: ../admin/pages/admin-gallery.php:321
+#: ../admin/pages/admin-gallery.php:420
+#: ../admin/pages/admin-gallery.php:536
+#: ../admin/pages/admin-gallery.php:635
+#: ../admin/pages/admin-header_footer.php:400
+#: ../admin/pages/admin-header_footer.php:761
+#: ../admin/pages/admin-header_footer.php:860
+#: ../admin/pages/admin-header_footer.php:959
+#: ../admin/pages/admin-header_footer.php:1058
+#: ../admin/pages/admin-header_footer.php:1157
+#: ../admin/pages/admin-header_footer.php:1256
+#: ../admin/pages/admin-header_footer.php:1355
+#: ../admin/pages/admin-header_footer.php:1454
+#: ../admin/pages/admin-header_footer.php:1553
+#: ../admin/pages/admin-header_footer.php:1652
+#: ../admin/pages/admin-header_footer.php:1870
+#: ../admin/pages/admin-header_footer.php:1970
+#: ../admin/pages/admin-header_footer.php:2070
+msgid "Suspendisse convallis"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:568
+#: ../admin/pages/admin-fonts.php:667
+#: ../admin/pages/admin-fonts.php:771
+#: ../admin/pages/admin-fonts.php:870
+#: ../admin/pages/admin-fonts.php:969
+#: ../admin/pages/admin-fonts.php:1068
+#: ../admin/pages/admin-fonts.php:1167
+#: ../admin/pages/admin-fonts.php:1266
+#: ../admin/pages/admin-fonts.php:1365
+#: ../admin/pages/admin-fonts.php:1469
+#: ../admin/pages/admin-fonts.php:1568
+#: ../admin/pages/admin-fonts.php:1667
+#: ../admin/pages/admin-fonts.php:1771
+#: ../admin/pages/admin-fonts.php:1870
+#: ../admin/pages/admin-fonts.php:1974
+#: ../admin/pages/admin-fonts.php:2073
+#: ../admin/pages/admin-fonts.php:2172
+#: ../admin/pages/admin-fonts.php:2276
+#: ../admin/pages/admin-fonts.php:2375
+#: ../admin/pages/admin-fonts.php:2474
+#: ../admin/pages/admin-fonts.php:2578
+#: ../admin/pages/admin-fonts.php:2677
+#: ../admin/pages/admin-fonts.php:2776
+#: ../admin/pages/admin-fonts.php:2880
+#: ../admin/pages/admin-fonts.php:2979
+#: ../admin/pages/admin-fonts.php:3083
+#: ../admin/pages/admin-fonts.php:3182
+#: ../admin/pages/admin-fonts.php:3281
+#: ../admin/pages/admin-fonts.php:3385
+#: ../admin/pages/admin-fonts.php:3484
+#: ../admin/pages/admin-fonts.php:3583
+#: ../admin/pages/admin-fonts.php:3687
+#: ../admin/pages/admin-fonts.php:3786
+#: ../admin/pages/admin-fonts.php:3885
+#: ../admin/pages/admin-fonts.php:3984
+#: ../admin/pages/admin-fonts.php:4083
+#: ../admin/pages/admin-fonts.php:4182
+#: ../admin/pages/admin-fonts.php:4286
+#: ../admin/pages/admin-fonts.php:4385
+#: ../admin/pages/admin-fonts.php:4484
+#: ../admin/pages/admin-fonts.php:4583
+#: ../admin/pages/admin-fonts.php:4682
+#: ../admin/pages/admin-fonts.php:4781
+#: ../admin/pages/admin-fonts.php:4880
+#: ../admin/pages/admin-fonts.php:4979
+#: ../admin/pages/admin-fonts.php:5078
+#: ../admin/pages/admin-gallery.php:322
+#: ../admin/pages/admin-gallery.php:421
+#: ../admin/pages/admin-gallery.php:537
+#: ../admin/pages/admin-gallery.php:636
+#: ../admin/pages/admin-header_footer.php:401
+#: ../admin/pages/admin-header_footer.php:762
+#: ../admin/pages/admin-header_footer.php:861
+#: ../admin/pages/admin-header_footer.php:960
+#: ../admin/pages/admin-header_footer.php:1059
+#: ../admin/pages/admin-header_footer.php:1158
+#: ../admin/pages/admin-header_footer.php:1257
+#: ../admin/pages/admin-header_footer.php:1356
+#: ../admin/pages/admin-header_footer.php:1455
+#: ../admin/pages/admin-header_footer.php:1554
+#: ../admin/pages/admin-header_footer.php:1653
+#: ../admin/pages/admin-header_footer.php:1871
+#: ../admin/pages/admin-header_footer.php:1971
+#: ../admin/pages/admin-header_footer.php:2071
+msgid "Suspendisse convallis nibh sed nulla scelerisque varius. Aliquam gravida fringilla ultrices. Etiam consectetur dui id lacus malesuada molestie."
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:576
+msgid "Slideshow Subtitle "
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:674
+msgid "Homepage Units"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:680
+msgid "Title of Homepage Builder Unit"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:779
+msgid "Subtitle of Homepage Builder Unit"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:878
+msgid "Body Font of Testimonial Unit Option 1"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:977
+msgid "Body Font of Testimonial Unit Option 2"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1076
+msgid "Testimonial Unit Author"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1175
+msgid "Testimonial Unit Details"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1274
+msgid "Font of Text Box Unit"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1372
+msgid "Blog Posts"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1378
+msgid "Blog Post List Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1477
+msgid "Blog Post Details Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1576
+msgid "Single Post Page Details"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1674
+msgid "Works"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1680
+msgid "Work Thumbnail Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1779
+msgid "Work Thumbnail Subtitle (Work Type)"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1877
+msgid "Landing Pages"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1883
+msgid "Post & Work Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:1982
+msgid "Page Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2081
+msgid "Work & Page Subtitle Line"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2179
+msgid "Team"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2185
+msgid "Team Member List Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2284
+msgid "Team Member's Occupation Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2383
+msgid "Single Team Member Page Intro Text"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2481
+msgid "Single Testimonial Page"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2487
+msgid "Testimonial Body Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2783
+msgid "Widgets"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2789
+msgid "Widget Title Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2888
+msgid "Tag Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2986
+#: ../admin/pages/admin-framework.php:84
+msgid "Related Content"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:2992
+msgid "Related Posts Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3091
+msgid "Related Works Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3190
+msgid "Related Team Members Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3294
+msgid "Comments Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3393
+msgid "Comments Details"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3492
+msgid "Reply Unit Title"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3590
+msgid "Contacts"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3596
+msgid "Body of Contact Unit with Map Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3695
+msgid "Links of Contact Unit with Map Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3794
+msgid "Links Hover of Contact Unit with Map Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3893
+msgid "Body of Contact Unit with Custom Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:3992
+msgid "Links of Contact Unit with Custom Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4091
+msgid "Links Hover of Contact Unit with Custom Background"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4189
+msgid "Other Theme Elements"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4195
+msgid "Body Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4294
+msgid "Button Title Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4393
+msgid "Lightbox Title Font"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4492
+msgid "Header 1"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4591
+msgid "Header 2"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4690
+msgid "Header 3"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4789
+msgid "Header 4"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4888
+msgid "Header 5"
+msgstr ""
+
+#: ../admin/pages/admin-fonts.php:4987
+msgid "Alerts Font"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:46
+#: ../admin/pages/admin-sidebars.php:107
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:51
+msgid "Responsivity Settings"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:56
+msgid "Activate Responsivity"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:72
+msgid "Smooth Scroll Effect"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:78
+msgid "Smooth Scroll is Activated"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:91
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:97
+#: ../admin/pages/admin-framework.php:104
+msgid "Display Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:98
+#: ../admin/pages/admin-framework.php:103
+msgid "Hide Related Posts"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:109
+msgid "Related posts will be displayed below each post in a single post page."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:114
+msgid "Enter a Title for Related Posts Unit"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:139
+msgid "Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:145
+#: ../admin/pages/admin-framework.php:152
+msgid "Display Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:146
+#: ../admin/pages/admin-framework.php:151
+msgid "Hide Related Works"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:157
+msgid "Related Works will be displayed below each work in a single work page."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:162
+msgid "Enter a Title for Related Works Unit"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:172
+msgid "Team Members"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:178
+#: ../admin/pages/admin-framework.php:185
+msgid "Display Team Members"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:179
+#: ../admin/pages/admin-framework.php:184
+msgid "Hide Team Members"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:190
+msgid "Team Members will be displayed below each team member page in a single team member page."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:195
+msgid "Enter a Title for Team Members Unit"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:219
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:233
+msgid "Upload a 16 x 16 px *.png / *.gif / *.ico image that will be used as your website's favicon."
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:239
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/pages/admin-framework.php:247
+msgid "Enter your Google Analytics (or other) tracking code here and get detailed statistics about the visitors of your website."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:133
+msgid "Portfolio Page Templates"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:138
+msgid "Current settings will be applied to the following templates: Portfolio 2 Columns (thumbnail size 480 x 240 pixels) and Portfolio 4 Columns (thumbnail size 240 x 240 pixels)."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:144
+msgid "Choose Default Portfolio Page Content"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:156
+msgid "Choose Type of Works to be displayed in Portfolio Page Templates by default."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:161
+msgid "Exclude Types of Works"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:165
+msgid "Enter a comma-separated list of Types of Works that you want to exclude from displaying in Portfolio Page Templates. Example: Type1, Type2, Type3 "
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:173
+#: ../admin/pages/admin-gallery.php:203
+msgid "Choose Sorting of Works"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:178
+#: ../admin/pages/admin-gallery.php:183
+#: ../admin/pages/admin-gallery.php:208
+#: ../admin/pages/admin-gallery.php:213
+msgid "By Date"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:179
+#: ../admin/pages/admin-gallery.php:182
+#: ../admin/pages/admin-gallery.php:209
+#: ../admin/pages/admin-gallery.php:212
+msgid "Random"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:192
+msgid "Portfolio Templates by Work Type "
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:197
+msgid "Current settings will be applied to the following templates: Portfolio 2 Columns by Work Type (thumbnail size 480 x 240 pixels) and Portfolio 4 Columns by Work Type (thumbnail size 240 x 240 pixels). Using these templates you can build portfolio pages for a single work type."
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:222
+msgid "Works Filter Settings"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:226
+msgid "Filter of Homepage Works Gallery Unit"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:231
+#: ../admin/pages/admin-gallery.php:446
+msgid "Static Work Type Font"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:330
+#: ../admin/pages/admin-gallery.php:545
+msgid "Work Type Font on Hover"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:431
+#: ../admin/pages/admin-gallery.php:645
+msgid "Work Type Background Box"
+msgstr ""
+
+#: ../admin/pages/admin-gallery.php:441
+msgid "Filter of Landing Page Works Gallery Template"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:256
+msgid "Header Logo Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:263
+msgid "Choose Logo Type"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:278
+msgid " theme allows you to display an image or plain text logo. Choose what type of logo you want to display."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:288
+msgid "Plain Text Logo Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:295
+msgid "Enter a Title for Your Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:303
+msgid "Enter Your company name or any other word you like. Keep in mind that the logo area is limited up to 225 pixel width."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:310
+msgid "Choose Font for Your Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:412
+msgid "Image Logo"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:422
+#: ../admin/pages/admin-slideshow.php:747
+msgid "Title"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:429
+#: ../admin/pages/admin-slideshow.php:754
+msgid "Image URL"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:439
+msgid "Important! Upload custom logo or paste image URL. Logo area size is 225 x 100 pixels. Larger images will be resized automatically."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:448
+msgid "Header Display Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:455
+msgid "Homepage Menu Bar"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:479
+msgid "Landing Page Menu Bar"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:506
+msgid "Homepage Logo Box Background"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:531
+msgid "Landing Page Logo Box Background"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:559
+msgid "Homepage Dropdown Background"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:590
+msgid "Landing Page Dropdown Background"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:623
+msgid "Search Button Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:629
+msgid "Homepage Search Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:641
+msgid " Display in Homepage Navigation Menu."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:646
+msgid "Landing Page Search Button Color"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:658
+msgid " Display in Landing Page Navigation Menu."
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:665
+msgid "Header Navigation Fonts"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:671
+msgid "Homepage Main Navigation Menu"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:770
+msgid "Homepage Main Navigation Menu Hover"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:869
+msgid "Homepage Main Navigation Dropdown"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:968
+msgid "Homepage Main Navigation Dropdown Hover"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1067
+msgid "Homepage Top Right Navigation Menu"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1166
+msgid "Landing Page Main Navigation Menu"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1265
+msgid "Landing Page Main Navigation Menu Hover"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1364
+msgid "Landing Page Main Navigation Dropdown"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1463
+msgid "Landing Page Main Navigation Dropdown Hover"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1562
+msgid "Landing Page Top Right Navigation Menu"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1660
+msgid "Main Navigation Menu Hover Line Effect"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1666
+msgid " Display Main Navigation Menu Hover Line Effect"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1674
+msgid "Footer Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1679
+msgid ""
+"Using Line 1, Line 2 and Line 3 form fields you can add some texts and links in the footer.<br /> \n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1686
+msgid "Line 1"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1690
+msgid "Line 2"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1694
+msgid "Line 3"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1700
+msgid "Footer Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1774
+msgid "Footer Fonts"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1780
+msgid "Footer Navigation Menu"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1880
+msgid "Footer Navigation Menu Hover"
+msgstr ""
+
+#: ../admin/pages/admin-header_footer.php:1980
+msgid "Footer Details"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:98
+msgid "Sidebar names must by Unique!"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:114
+msgid "Main Sidebar is set by default for Blog, Single Work Page, Single Team Member Page, Single Testimonial Page, Search Pages and Other Pages. Here you can assign custom sidebar to each group of these pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:119
+msgid "Choose Sidebar Alignment"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:125
+#: ../admin/pages/admin-sidebars.php:130
+msgid "Align to the LEFT"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:126
+#: ../admin/pages/admin-sidebars.php:129
+msgid "Align to the RIGHT"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:141
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:156
+msgid "Choose default sidebar to be displayed in Blog Full Width Option 1 Page Template and in all Posts."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:161
+msgid "Single Work Page Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:176
+msgid "Choose default sidebar to be displayed in all Single Work pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:185
+msgid "Single Team Member Page Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:200
+msgid "Choose default sidebar to be displayed in all Single Team Member pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:205
+msgid "Single Testimonial Page Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:220
+msgid "Choose default sidebar to be displayed in all Single Testimonial pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:229
+msgid "Search Results Page Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:244
+msgid "Choose default sidebar to be displayed in Search Results pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:249
+msgid "Other Pages Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:264
+msgid "Other pages are pages that do not belong to any of the groups listed above. Choose default sidebar to be displayed in other pages."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:275
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:277
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:282
+msgid ""
+"Important! All Custom Sidebars must have unique names.<br /> \n"
+"\t\t\t\t\tWhen sidebar name is changed, all widget settings for this sidebar are cleared."
+msgstr ""
+
+#: ../admin/pages/admin-sidebars.php:289
+msgid "Sidebar Name"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:191
+msgid "Homepage Slideshow Settings"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:198
+msgid "Choose Homepage Slider"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:215
+msgid "Enter Revolution Slider Shortcode"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:219
+msgid "Enter Revolution Slider Shortcode. It will be used for embedding the slider. Example: [rev_slider homepage]"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:224
+msgid "Enter LayerSlider Shortcode"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:228
+msgid "Enter LayerSlider Shortcode. It will be used for embedding the slider. Example: [layerslider id=\"1\"]"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:239
+msgid "FullScreen Image Title and Subtile"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:245
+msgid "Enter Title"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:251
+msgid "Enter Subtitle"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:257
+#: ../admin/pages/admin-slideshow.php:784
+msgid "Title Unit Alignment"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:275
+#: ../admin/pages/admin-slideshow.php:802
+msgid "Choose Font Color"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:278
+msgid "Title and Subtile Font color can be set by going to Dashboard > CuckooBizz > <a href=\""
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:285
+msgid "Additional Image Layer"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:289
+msgid "You can add an additional Image Layer. For example your company logo or transparent overlay effect that will be displayed behind Title and Subtitle unit if it is created."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:294
+msgid "Display Image as"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:360
+msgid "FullScreen Background Image"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:366
+msgid "For a FullScreen Background, Images smaller than width 1680 pixels width x 1080 pixels height are not recommended."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:438
+msgid "Background Settings"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:444
+msgid "Upload custom background image, set display properties for it. Custom background will be visible only under the slides with transparent background.\""
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:516
+msgid "FullScreen Slider Settings"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:535
+msgid "Choose Effect for your slideshow animation."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:540
+msgid "Display Progress Bar"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:552
+msgid "Select Yes if you want Progress Bar to be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:560
+#: ../admin/pages/admin-slideshow.php:628
+msgid "Slide Display Time"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:564
+#: ../admin/pages/admin-slideshow.php:632
+msgid "Set time duration for moving to next slide. Default is set to 6000ms."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:569
+#: ../admin/pages/admin-slideshow.php:637
+msgid "Animation Speed"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:573
+#: ../admin/pages/admin-slideshow.php:641
+msgid "Set slide transition speed. Default is set to 1000ms."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:584
+msgid "Nivo Slider Settings"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:591
+msgid "Choose Nivo Effect"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:603
+msgid "Choose Nivo Effect for your slideshow animation."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:608
+msgid "Choose Title Effect"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:620
+msgid "Choose animation effect for your Title Unit."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:649
+msgid "Box Cols"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:653
+msgid "Set box cols for box animations."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:658
+msgid "Box Rows"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:662
+msgid "Set box rows for box animations."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:670
+msgid "Slideshow animation pause"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:686
+msgid "Select Yes if you want to pause slideshow animation when the mouse is over a slide."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:691
+msgid "Slideshow Overlay Effect"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:694
+msgid " Display Slideshow Overlay Effect on Nivo Slider."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:705
+msgid "Slides"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:712
+msgid ""
+"Click Add Slide button to add a new slide. \n"
+"\t\t\tUpload new image or choose an existing one from the Media Gallery by clicking the Upload Image button. \n"
+"\t\t\tEnter a Title for your slide (optional). When you have more than one slide, you can change slide sequence by dragging slides up or down. \n"
+"\t\t\tYou can also add a Title, Subtitle and Button for each slide and set an alignment for these element unit. \n"
+"\t\t\tIf you want to delete a slide, click Delete Slide button and then click Save button at the bottom of this framework page.<br /><br />\n"
+"\n"
+"\t\t\tRecommended size for the images:<br />\n"
+"\t\t\t1. Nivo Slider is a FullWidth Slider so recommended image width is 1680 pixels. Height of the image can be any. Also we suggest you to use images of the same size to make animation flow smoothly.<br />\n"
+"\t\t\t2. Recommended size for FullScreen Slider and FullScreen Image is 1680 x 1080 pixels."
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:737
+msgid "Change Sequence"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:767
+msgid "Enter Slide Title"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:771
+msgid "Enter Slide Subtitle"
+msgstr ""
+
+#: ../admin/pages/admin-slideshow.php:810
+msgid "If left blank, default color will be used"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:150
+msgid "Landing Page Social Media Unit"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:152
+msgid " Display Social Media Unit in Landing Pages."
+msgstr ""
+
+#: ../admin/pages/admin-social.php:159
+msgid "Enter background settings for Landing Pages Social Media Unit. These settings does not affect Homepage Social Media Unit. Upload custom background image, set display properties for it. Or leave it blank, and default theme background image will be displayed."
+msgstr ""
+
+#: ../admin/pages/admin-social.php:226
+msgid "Share Your Content"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:231
+msgid ""
+"Add Social Media functionality to your posts and works, and share your content in the most popular social networks. \n"
+"\t\t\t\t\t\tChoose Social Media Networks where you want to share your content, and share buttons will be displayed in each blog post and work social."
+msgstr ""
+
+#: ../admin/pages/admin-social.php:236
+msgid "Share Your Posts"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:278
+msgid "Share Your Works"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:322
+msgid "Link to Your Social Profiles"
+msgstr ""
+
+#: ../admin/pages/admin-social.php:327
+msgid "Add URLs to your Social Media Profiles, and Icons will be displayed in Homepage Social Media Unit, Contact Unit, and in the Landing Pages Social Media Unit above the Contact Unit. All Icons will be arranged in the same sequence as they are displayed here. You can change the sequence of the icons by dragging them up or down."
+msgstr ""
+
+#: ../admin/pages/admin-update.php:15
+msgid "Theme Updates"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:36
+msgid "New Theme Update"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:56
+msgid "Latest Version"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:67
+msgid "Changelog"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:78
+msgid "Not Connection!"
+msgstr ""
+
+#: ../admin/pages/admin-update.php:82
+msgid "<p>Error: Unable to fetch the changelog.</p>"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:26
+msgid "Sorry, could not load tweets."
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:29
+msgid "Sorry, could not load tweets. Please double check your twitter username."
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "second"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "minute"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "hour"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "day"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "week"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "month"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "year"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:145
+msgid "decade"
+msgstr ""
+
+#: ../admin/shortcodes/social-button/twitter.php:150
+msgid "ago"
+msgstr ""
+
+#: ../admin/widget/calendar.php:216
+#: ../admin/widget/calendar.php:223
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:102
+msgid "App Id"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:106
+msgid "Username"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:110
+msgid "Border color"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:114
+msgid "Background color"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:119
+msgid " Show Faces"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:122
+msgid " Show Stream"
+msgstr ""
+
+#: ../admin/widget/facebook_box.php:125
+msgid " Show Header"
+msgstr ""
+
+#: ../admin/widget/map.php:58
+msgid "Location"
+msgstr ""
+
+#: ../admin/widget/map.php:59
+msgid "Height"
+msgstr ""
+
+#: ../admin/widget/map.php:60
+msgid "Zoom"
+msgstr ""
+
+#: ../admin/widget/video.php:67
+msgid "Video URL"
+msgstr ""
+
+#: ../admin/widget/video.php:68
+msgid "Text"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:270
+msgid "Eshop Title & Subtitle"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:276
+msgid "Eshop Title"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:280
+msgid "Enter a Title that will be displayed in main eShop page. If left blank, default title will be displayed."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:285
+msgid "Eshop Subtitle"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:289
+msgid "Enter a Subtitle Title that will be displayed in main eShop page (optional)."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:296
+#: ../admin/woo/admin-page.php:302
+msgid "Related Products"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:308
+#: ../admin/woo/admin-page.php:315
+#: ../admin/woo/admin-page.php:320
+msgid "Display Related Products"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:309
+#: ../admin/woo/admin-page.php:314
+#: ../admin/woo/admin-page.php:321
+msgid "Hide Related Products"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:326
+msgid "Related Products will be displayed below each product in a single product page."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:331
+msgid "Enter a Title for Related Products Unit"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:335
+msgid "Leave it blank and Related Products Unit Title bar will not be displayed."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:358
+msgid "Related Products Unit Background Settings"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:361
+msgid "Upload custom background image, set display properties for it. Or leave it blank, and default theme background image will be displayed. "
+msgstr ""
+
+#: ../admin/woo/admin-page.php:436
+msgid "Product Thumbnail"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:454
+msgid "Eshop Fonts"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:460
+msgid ""
+"CuckooBizz theme provides you with +500 custom fonts from Google.<br />\n"
+"\t\t\t\t\t\t\t\t\tAll these theme fonts can be managed using CuckooBizz > Theme Fonts tab.<br />\n"
+"\t\t\t\t\t\t\t\t\tHere you can manage only the fonts that are used in Eshop only.<br />\n"
+"\t\t\t\t\t\t\t\t\tClick Reset to Default Settings button to restore default Eshop font settings."
+msgstr ""
+
+#: ../admin/woo/admin-page.php:470
+msgid "WooCommerce Title"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:569
+msgid " WooCommerce Subtitle"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:668
+msgid "Product Title in a Single Product Page"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:767
+msgid "Sale Box Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:866
+msgid "Sale Price Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:965
+msgid "Regular Price Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1064
+msgid "Add to Cart Button Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1163
+msgid "Related Products Unit Title Font"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1261
+msgid "Eshop Elements Colors"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1268
+msgid "Subtitle Line Color "
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1276
+msgid "Details Box Background Color"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1284
+msgid "Sale Box Color"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1295
+msgid "Add to Cart Button Color"
+msgstr ""
+
+#: ../admin/woo/admin-page.php:1303
+msgid "Add to Cart Button Color on Hover"
+msgstr ""
+
+#: ../admin/woo/inc.php:227
+#: ../admin/woo/inc.php:240
+msgid "Previous"
+msgstr ""
+
+#: ../admin/woo/inc.php:430
+msgid "Showing the single result"
+msgstr ""
+
+#: ../admin/woo/inc.php:432
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:54
+msgid "CuckooLove Display Settings"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:59
+msgid "Display in Post"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:62
+msgid "Display in Work"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:65
+msgid "Check boxes above where do you want to add CuckooLove functionality."
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:72
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:104
+msgid "CuckooLove V"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:225
+msgid " Love It"
+msgstr ""
+
+#: ../cuckoolove/cuckoo-love.php:228
+msgid "You Love It!"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:178
+#: ../framework/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:179
+#: ../framework/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:517
+#: ../framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1299
+#: ../framework/plugins/LayerSlider/add.php:325
+#: ../framework/plugins/LayerSlider/add.php:381
+#: ../framework/plugins/LayerSlider/add.php:1261
+#: ../framework/plugins/LayerSlider/add.php:1317
+#: ../framework/plugins/LayerSlider/builder.php:453
+#: ../framework/plugins/LayerSlider/builder.php:995
+#: ../framework/plugins/LayerSlider/edit.php:333
+#: ../framework/plugins/LayerSlider/edit.php:389
+#: ../framework/plugins/LayerSlider/edit.php:1287
+#: ../framework/plugins/LayerSlider/edit.php:1343
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1955
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+#: ../framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1956
+#: ../framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:24
+#: ../framework/plugins/LayerSlider/add.php:960
+#: ../framework/plugins/LayerSlider/edit.php:32
+#: ../framework/plugins/LayerSlider/edit.php:980
+msgid "Slide Options"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:25
+#: ../framework/plugins/LayerSlider/add.php:961
+#: ../framework/plugins/LayerSlider/edit.php:33
+#: ../framework/plugins/LayerSlider/edit.php:981
+msgid "Duplicate this slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:36
+#: ../framework/plugins/LayerSlider/add.php:972
+#: ../framework/plugins/LayerSlider/edit.php:44
+#: ../framework/plugins/LayerSlider/edit.php:992
+msgid "Slide options"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:37
+#: ../framework/plugins/LayerSlider/add.php:258
+#: ../framework/plugins/LayerSlider/add.php:973
+#: ../framework/plugins/LayerSlider/add.php:1194
+#: ../framework/plugins/LayerSlider/edit.php:45
+#: ../framework/plugins/LayerSlider/edit.php:266
+#: ../framework/plugins/LayerSlider/edit.php:993
+#: ../framework/plugins/LayerSlider/edit.php:1219
+msgid "Image"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:40
+#: ../framework/plugins/LayerSlider/add.php:976
+#: ../framework/plugins/LayerSlider/edit.php:48
+#: ../framework/plugins/LayerSlider/edit.php:996
+msgid "The slide image/background. Click into the field to open the WordPress Media Library to choose or upload an image."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:44
+#: ../framework/plugins/LayerSlider/add.php:980
+#: ../framework/plugins/LayerSlider/edit.php:52
+#: ../framework/plugins/LayerSlider/edit.php:1000
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:47
+#: ../framework/plugins/LayerSlider/add.php:983
+#: ../framework/plugins/LayerSlider/edit.php:55
+#: ../framework/plugins/LayerSlider/edit.php:1003
+msgid "The thumbnail image of this slide. Click into the field to open the WordPress Media Library to choose or upload an image. If you leave this field empty, the slide image will be used."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:51
+#: ../framework/plugins/LayerSlider/add.php:987
+#: ../framework/plugins/LayerSlider/edit.php:59
+#: ../framework/plugins/LayerSlider/edit.php:1007
+msgid "Slide delay"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:52
+#: ../framework/plugins/LayerSlider/add.php:988
+#: ../framework/plugins/LayerSlider/edit.php:60
+#: ../framework/plugins/LayerSlider/edit.php:1008
+msgid "Here you can set the time interval between slide changes, this slide will stay visible for the time specified here. This value is in millisecs, so the value 1000 means 1 second. Please don't use 0 or very low values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:55
+#: ../framework/plugins/LayerSlider/add.php:991
+#: ../framework/plugins/LayerSlider/edit.php:63
+#: ../framework/plugins/LayerSlider/edit.php:1011
+msgid "Slide transition"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:58
+#: ../framework/plugins/LayerSlider/add.php:994
+#: ../framework/plugins/LayerSlider/edit.php:66
+#: ../framework/plugins/LayerSlider/edit.php:1014
+msgid "You can choose between the old and the new 3D/2D slide transitions introduced in version 4.0.0."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:62
+#: ../framework/plugins/LayerSlider/add.php:998
+#: ../framework/plugins/LayerSlider/edit.php:70
+#: ../framework/plugins/LayerSlider/edit.php:1018
+msgid "Transitions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:63
+#: ../framework/plugins/LayerSlider/add.php:999
+#: ../framework/plugins/LayerSlider/builder.php:239
+#: ../framework/plugins/LayerSlider/builder.php:461
+#: ../framework/plugins/LayerSlider/builder.php:748
+#: ../framework/plugins/LayerSlider/builder.php:1003
+#: ../framework/plugins/LayerSlider/edit.php:71
+#: ../framework/plugins/LayerSlider/edit.php:1019
+msgid "Direction"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:66
+#: ../framework/plugins/LayerSlider/add.php:1002
+#: ../framework/plugins/LayerSlider/edit.php:74
+#: ../framework/plugins/LayerSlider/edit.php:1022
+msgid "The slide will slide in from this direction."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:67
+#: ../framework/plugins/LayerSlider/add.php:1003
+#: ../framework/plugins/LayerSlider/edit.php:75
+#: ../framework/plugins/LayerSlider/edit.php:1023
+msgid "top"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:68
+#: ../framework/plugins/LayerSlider/add.php:1004
+#: ../framework/plugins/LayerSlider/edit.php:76
+#: ../framework/plugins/LayerSlider/edit.php:1024
+msgid "right"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:69
+#: ../framework/plugins/LayerSlider/add.php:1005
+#: ../framework/plugins/LayerSlider/edit.php:77
+#: ../framework/plugins/LayerSlider/edit.php:1025
+msgid "bottom"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:70
+#: ../framework/plugins/LayerSlider/add.php:1006
+#: ../framework/plugins/LayerSlider/edit.php:78
+#: ../framework/plugins/LayerSlider/edit.php:1026
+msgid "left"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:72
+#: ../framework/plugins/LayerSlider/add.php:1008
+#: ../framework/plugins/LayerSlider/edit.php:80
+#: ../framework/plugins/LayerSlider/edit.php:1028
+msgid "You can select your desired slide transitions by clicking on this button."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:74
+#: ../framework/plugins/LayerSlider/add.php:1010
+#: ../framework/plugins/LayerSlider/edit.php:82
+#: ../framework/plugins/LayerSlider/edit.php:1030
+msgid "Time shift"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:75
+msgid "You can control here the timing of the layer animations  when the slider changes to this slider with a 3D/2D transition. Zero means that the layers of this slide will animate in when the slide transition ends. You can time-shift the starting time of the layer animations with positive or negative values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:78
+#: ../framework/plugins/LayerSlider/add.php:1014
+#: ../framework/plugins/LayerSlider/edit.php:86
+#: ../framework/plugins/LayerSlider/edit.php:1034
+msgid "Slide in"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:79
+#: ../framework/plugins/LayerSlider/add.php:123
+#: ../framework/plugins/LayerSlider/add.php:336
+#: ../framework/plugins/LayerSlider/add.php:392
+#: ../framework/plugins/LayerSlider/add.php:1015
+#: ../framework/plugins/LayerSlider/add.php:1059
+#: ../framework/plugins/LayerSlider/add.php:1272
+#: ../framework/plugins/LayerSlider/add.php:1328
+#: ../framework/plugins/LayerSlider/builder.php:146
+#: ../framework/plugins/LayerSlider/builder.php:203
+#: ../framework/plugins/LayerSlider/builder.php:282
+#: ../framework/plugins/LayerSlider/builder.php:412
+#: ../framework/plugins/LayerSlider/builder.php:642
+#: ../framework/plugins/LayerSlider/builder.php:712
+#: ../framework/plugins/LayerSlider/builder.php:800
+#: ../framework/plugins/LayerSlider/builder.php:954
+#: ../framework/plugins/LayerSlider/edit.php:87
+#: ../framework/plugins/LayerSlider/edit.php:131
+#: ../framework/plugins/LayerSlider/edit.php:344
+#: ../framework/plugins/LayerSlider/edit.php:400
+#: ../framework/plugins/LayerSlider/edit.php:1035
+#: ../framework/plugins/LayerSlider/edit.php:1079
+#: ../framework/plugins/LayerSlider/edit.php:1298
+#: ../framework/plugins/LayerSlider/edit.php:1354
+msgid "Duration"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:80
+#: ../framework/plugins/LayerSlider/add.php:1016
+#: ../framework/plugins/LayerSlider/edit.php:88
+#: ../framework/plugins/LayerSlider/edit.php:1036
+msgid "The duration of the slide in animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:81
+#: ../framework/plugins/LayerSlider/add.php:125
+#: ../framework/plugins/LayerSlider/add.php:338
+#: ../framework/plugins/LayerSlider/add.php:394
+#: ../framework/plugins/LayerSlider/add.php:1017
+#: ../framework/plugins/LayerSlider/add.php:1061
+#: ../framework/plugins/LayerSlider/add.php:1274
+#: ../framework/plugins/LayerSlider/add.php:1330
+#: ../framework/plugins/LayerSlider/builder.php:148
+#: ../framework/plugins/LayerSlider/builder.php:205
+#: ../framework/plugins/LayerSlider/builder.php:284
+#: ../framework/plugins/LayerSlider/builder.php:414
+#: ../framework/plugins/LayerSlider/builder.php:644
+#: ../framework/plugins/LayerSlider/builder.php:714
+#: ../framework/plugins/LayerSlider/builder.php:802
+#: ../framework/plugins/LayerSlider/builder.php:956
+#: ../framework/plugins/LayerSlider/edit.php:89
+#: ../framework/plugins/LayerSlider/edit.php:133
+#: ../framework/plugins/LayerSlider/edit.php:346
+#: ../framework/plugins/LayerSlider/edit.php:402
+#: ../framework/plugins/LayerSlider/edit.php:1037
+#: ../framework/plugins/LayerSlider/edit.php:1081
+#: ../framework/plugins/LayerSlider/edit.php:1300
+#: ../framework/plugins/LayerSlider/edit.php:1356
+msgid "Easing"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:83
+#: ../framework/plugins/LayerSlider/add.php:127
+#: ../framework/plugins/LayerSlider/add.php:1019
+#: ../framework/plugins/LayerSlider/add.php:1063
+#: ../framework/plugins/LayerSlider/edit.php:91
+#: ../framework/plugins/LayerSlider/edit.php:135
+#: ../framework/plugins/LayerSlider/edit.php:1039
+#: ../framework/plugins/LayerSlider/edit.php:1083
+msgid "The timing function of the animation, with it you can manipualte the slide movement. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:118
+#: ../framework/plugins/LayerSlider/add.php:1054
+#: ../framework/plugins/LayerSlider/edit.php:126
+#: ../framework/plugins/LayerSlider/edit.php:1074
+msgid "Delay in"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:119
+#: ../framework/plugins/LayerSlider/add.php:1055
+#: ../framework/plugins/LayerSlider/edit.php:127
+#: ../framework/plugins/LayerSlider/edit.php:1075
+msgid "Delay before the animation start when the slide slides in. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:122
+#: ../framework/plugins/LayerSlider/add.php:1058
+#: ../framework/plugins/LayerSlider/edit.php:130
+#: ../framework/plugins/LayerSlider/edit.php:1078
+msgid "Slide out"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:124
+#: ../framework/plugins/LayerSlider/add.php:1060
+#: ../framework/plugins/LayerSlider/edit.php:132
+#: ../framework/plugins/LayerSlider/edit.php:1080
+msgid "The duration of the slide out animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:162
+#: ../framework/plugins/LayerSlider/add.php:1098
+#: ../framework/plugins/LayerSlider/edit.php:170
+#: ../framework/plugins/LayerSlider/edit.php:1118
+msgid "Delay out"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:163
+#: ../framework/plugins/LayerSlider/add.php:1099
+#: ../framework/plugins/LayerSlider/edit.php:171
+#: ../framework/plugins/LayerSlider/edit.php:1119
+msgid "Delay before the animation start when the slide slides out. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:166
+#: ../framework/plugins/LayerSlider/add.php:1102
+#: ../framework/plugins/LayerSlider/edit.php:174
+msgid "Link this slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:167
+#: ../framework/plugins/LayerSlider/add.php:1103
+#: ../framework/plugins/LayerSlider/edit.php:175
+#: ../framework/plugins/LayerSlider/edit.php:1123
+msgid "Link URL"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:168
+#: ../framework/plugins/LayerSlider/add.php:1104
+#: ../framework/plugins/LayerSlider/edit.php:176
+#: ../framework/plugins/LayerSlider/edit.php:1124
+msgid "If you want to link the whole slide, enter the URL of your link here."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:169
+#: ../framework/plugins/LayerSlider/add.php:1105
+#: ../framework/plugins/LayerSlider/edit.php:177
+#: ../framework/plugins/LayerSlider/edit.php:1125
+msgid "Link target"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:171
+#: ../framework/plugins/LayerSlider/add.php:1107
+#: ../framework/plugins/LayerSlider/edit.php:179
+#: ../framework/plugins/LayerSlider/edit.php:1128
+msgid "You can control here the link behaviour: _self means the linked page will open in the current tab/window, _blank will create a new tab/window."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:182
+#: ../framework/plugins/LayerSlider/add.php:514
+#: ../framework/plugins/LayerSlider/add.php:861
+#: ../framework/plugins/LayerSlider/add.php:1118
+#: ../framework/plugins/LayerSlider/add.php:1450
+#: ../framework/plugins/LayerSlider/edit.php:190
+#: ../framework/plugins/LayerSlider/edit.php:522
+#: ../framework/plugins/LayerSlider/edit.php:874
+#: ../framework/plugins/LayerSlider/edit.php:1139
+#: ../framework/plugins/LayerSlider/edit.php:1477
+msgid "Misc"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:183
+#: ../framework/plugins/LayerSlider/add.php:1119
+#: ../framework/plugins/LayerSlider/edit.php:191
+#: ../framework/plugins/LayerSlider/edit.php:1140
+msgid "#ID"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:184
+#: ../framework/plugins/LayerSlider/add.php:1120
+#: ../framework/plugins/LayerSlider/edit.php:192
+#: ../framework/plugins/LayerSlider/edit.php:1141
+msgid "You can apply an ID attribute on the HTML element of this slide to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:185
+#: ../framework/plugins/LayerSlider/add.php:1121
+#: ../framework/plugins/LayerSlider/edit.php:193
+#: ../framework/plugins/LayerSlider/edit.php:1142
+msgid "Deeplink"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:186
+#: ../framework/plugins/LayerSlider/add.php:1122
+#: ../framework/plugins/LayerSlider/edit.php:194
+#: ../framework/plugins/LayerSlider/edit.php:1143
+msgid "You can specify a slide alias name which you can use in your URLs with a hash mark, so LayerSlider will start with the correspondig slide."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:187
+#: ../framework/plugins/LayerSlider/add.php:441
+#: ../framework/plugins/LayerSlider/add.php:1123
+#: ../framework/plugins/LayerSlider/add.php:1377
+#: ../framework/plugins/LayerSlider/edit.php:195
+#: ../framework/plugins/LayerSlider/edit.php:449
+#: ../framework/plugins/LayerSlider/edit.php:1144
+#: ../framework/plugins/LayerSlider/edit.php:1403
+msgid "Hidden"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:188
+#: ../framework/plugins/LayerSlider/add.php:1124
+#: ../framework/plugins/LayerSlider/edit.php:196
+#: ../framework/plugins/LayerSlider/edit.php:1145
+msgid "If you don't want to use this slide in your front-page, but you want to keep it, you can hide it with this switch."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:197
+#: ../framework/plugins/LayerSlider/add.php:1133
+#: ../framework/plugins/LayerSlider/builder.php:70
+#: ../framework/plugins/LayerSlider/builder.php:352
+#: ../framework/plugins/LayerSlider/builder.php:560
+#: ../framework/plugins/LayerSlider/builder.php:892
+#: ../framework/plugins/LayerSlider/edit.php:205
+#: ../framework/plugins/LayerSlider/edit.php:1154
+msgid "Preview"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:209
+#: ../framework/plugins/LayerSlider/add.php:1145
+#: ../framework/plugins/LayerSlider/edit.php:217
+#: ../framework/plugins/LayerSlider/edit.php:1166
+msgid "Enter Preview"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:220
+#: ../framework/plugins/LayerSlider/add.php:1156
+#: ../framework/plugins/LayerSlider/edit.php:228
+#: ../framework/plugins/LayerSlider/edit.php:1177
+msgid "Layers"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:233
+#: ../framework/plugins/LayerSlider/add.php:600
+#: ../framework/plugins/LayerSlider/add.php:1169
+#: ../framework/plugins/LayerSlider/edit.php:241
+#: ../framework/plugins/LayerSlider/edit.php:608
+#: ../framework/plugins/LayerSlider/edit.php:1194
+msgid "Basic"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:234
+#: ../framework/plugins/LayerSlider/add.php:1170
+#: ../framework/plugins/LayerSlider/edit.php:242
+#: ../framework/plugins/LayerSlider/edit.php:1195
+msgid "Options"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:235
+#: ../framework/plugins/LayerSlider/add.php:1171
+#: ../framework/plugins/LayerSlider/edit.php:243
+#: ../framework/plugins/LayerSlider/edit.php:1196
+msgid "Link"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:237
+#: ../framework/plugins/LayerSlider/add.php:534
+#: ../framework/plugins/LayerSlider/add.php:1173
+#: ../framework/plugins/LayerSlider/add.php:1470
+#: ../framework/plugins/LayerSlider/edit.php:245
+#: ../framework/plugins/LayerSlider/edit.php:542
+#: ../framework/plugins/LayerSlider/edit.php:1198
+#: ../framework/plugins/LayerSlider/edit.php:1497
+msgid "Attributes"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:238
+#: ../framework/plugins/LayerSlider/add.php:1174
+#: ../framework/plugins/LayerSlider/edit.php:246
+msgid "Remove this layer"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:263
+#: ../framework/plugins/LayerSlider/add.php:1199
+#: ../framework/plugins/LayerSlider/edit.php:271
+#: ../framework/plugins/LayerSlider/edit.php:1224
+msgid "Div / Video"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:268
+#: ../framework/plugins/LayerSlider/add.php:1204
+#: ../framework/plugins/LayerSlider/edit.php:276
+#: ../framework/plugins/LayerSlider/edit.php:1229
+msgid "Paragraph"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:273
+#: ../framework/plugins/LayerSlider/add.php:1209
+#: ../framework/plugins/LayerSlider/edit.php:281
+#: ../framework/plugins/LayerSlider/edit.php:1234
+msgid "Span"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:278
+#: ../framework/plugins/LayerSlider/add.php:1214
+#: ../framework/plugins/LayerSlider/edit.php:286
+#: ../framework/plugins/LayerSlider/edit.php:1239
+msgid "H1"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:283
+#: ../framework/plugins/LayerSlider/add.php:1219
+#: ../framework/plugins/LayerSlider/edit.php:291
+#: ../framework/plugins/LayerSlider/edit.php:1244
+msgid "H2"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:288
+#: ../framework/plugins/LayerSlider/add.php:1224
+#: ../framework/plugins/LayerSlider/edit.php:296
+#: ../framework/plugins/LayerSlider/edit.php:1249
+msgid "H3"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:293
+#: ../framework/plugins/LayerSlider/add.php:1229
+#: ../framework/plugins/LayerSlider/edit.php:301
+#: ../framework/plugins/LayerSlider/edit.php:1254
+msgid "H4"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:298
+#: ../framework/plugins/LayerSlider/add.php:1234
+#: ../framework/plugins/LayerSlider/edit.php:306
+#: ../framework/plugins/LayerSlider/edit.php:1259
+msgid "H5"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:303
+#: ../framework/plugins/LayerSlider/add.php:1239
+#: ../framework/plugins/LayerSlider/edit.php:311
+#: ../framework/plugins/LayerSlider/edit.php:1264
+msgid "H6"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:311
+#: ../framework/plugins/LayerSlider/add.php:1247
+#: ../framework/plugins/LayerSlider/edit.php:319
+#: ../framework/plugins/LayerSlider/edit.php:1273
+msgid "Click into this text field to open WordPress Media Library where you can upload new images or select previously used ones."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:316
+#: ../framework/plugins/LayerSlider/add.php:1252
+#: ../framework/plugins/LayerSlider/edit.php:324
+#: ../framework/plugins/LayerSlider/edit.php:1278
+msgid "Custom HTML content"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:317
+#: ../framework/plugins/LayerSlider/add.php:1253
+#: ../framework/plugins/LayerSlider/edit.php:325
+#: ../framework/plugins/LayerSlider/edit.php:1279
+msgid "Type here the contents of your layer. You can use any HTML codes in this field to insert other contents then text. This field is also shortcode-aware, so you can insert content from other plugins as well as video embed codes."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:324
+#: ../framework/plugins/LayerSlider/add.php:1260
+#: ../framework/plugins/LayerSlider/edit.php:332
+#: ../framework/plugins/LayerSlider/edit.php:1286
+msgid "Transition in"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:327
+#: ../framework/plugins/LayerSlider/add.php:383
+#: ../framework/plugins/LayerSlider/add.php:1263
+#: ../framework/plugins/LayerSlider/add.php:1319
+#: ../framework/plugins/LayerSlider/edit.php:335
+#: ../framework/plugins/LayerSlider/edit.php:391
+#: ../framework/plugins/LayerSlider/edit.php:1289
+#: ../framework/plugins/LayerSlider/edit.php:1345
+msgid "The type of the transition."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:328
+#: ../framework/plugins/LayerSlider/add.php:384
+#: ../framework/plugins/LayerSlider/add.php:1264
+#: ../framework/plugins/LayerSlider/add.php:1320
+#: ../framework/plugins/LayerSlider/builder.php:457
+#: ../framework/plugins/LayerSlider/builder.php:999
+#: ../framework/plugins/LayerSlider/edit.php:336
+#: ../framework/plugins/LayerSlider/edit.php:392
+#: ../framework/plugins/LayerSlider/edit.php:1290
+#: ../framework/plugins/LayerSlider/edit.php:1346
+msgid "Fade"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:329
+#: ../framework/plugins/LayerSlider/add.php:1265
+#: ../framework/plugins/LayerSlider/edit.php:337
+#: ../framework/plugins/LayerSlider/edit.php:1291
+msgid "Auto (Slide from auto direction)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:330
+#: ../framework/plugins/LayerSlider/add.php:1266
+#: ../framework/plugins/LayerSlider/edit.php:338
+#: ../framework/plugins/LayerSlider/edit.php:1292
+msgid "Top (Slide from top)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:331
+#: ../framework/plugins/LayerSlider/add.php:1267
+#: ../framework/plugins/LayerSlider/edit.php:339
+#: ../framework/plugins/LayerSlider/edit.php:1293
+msgid "Right (Slide from right)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:332
+#: ../framework/plugins/LayerSlider/add.php:1268
+#: ../framework/plugins/LayerSlider/edit.php:340
+#: ../framework/plugins/LayerSlider/edit.php:1294
+msgid "Bottom (Slide from bottom)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:333
+#: ../framework/plugins/LayerSlider/add.php:1269
+#: ../framework/plugins/LayerSlider/edit.php:341
+#: ../framework/plugins/LayerSlider/edit.php:1295
+msgid "Left (Slide from left)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:337
+#: ../framework/plugins/LayerSlider/add.php:1273
+#: ../framework/plugins/LayerSlider/edit.php:345
+#: ../framework/plugins/LayerSlider/edit.php:1299
+msgid "The duration of the slide in animation. This value is in millisecs, so the value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:340
+#: ../framework/plugins/LayerSlider/add.php:396
+#: ../framework/plugins/LayerSlider/add.php:1276
+#: ../framework/plugins/LayerSlider/add.php:1332
+#: ../framework/plugins/LayerSlider/edit.php:348
+#: ../framework/plugins/LayerSlider/edit.php:404
+#: ../framework/plugins/LayerSlider/edit.php:1302
+#: ../framework/plugins/LayerSlider/edit.php:1358
+msgid "The timing function of the animation, with it you can manipualte the layer movement. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:375
+#: ../framework/plugins/LayerSlider/add.php:431
+#: ../framework/plugins/LayerSlider/add.php:1311
+#: ../framework/plugins/LayerSlider/add.php:1367
+#: ../framework/plugins/LayerSlider/builder.php:109
+#: ../framework/plugins/LayerSlider/builder.php:188
+#: ../framework/plugins/LayerSlider/builder.php:264
+#: ../framework/plugins/LayerSlider/builder.php:324
+#: ../framework/plugins/LayerSlider/builder.php:391
+#: ../framework/plugins/LayerSlider/builder.php:601
+#: ../framework/plugins/LayerSlider/builder.php:697
+#: ../framework/plugins/LayerSlider/builder.php:778
+#: ../framework/plugins/LayerSlider/builder.php:855
+#: ../framework/plugins/LayerSlider/builder.php:933
+#: ../framework/plugins/LayerSlider/edit.php:383
+#: ../framework/plugins/LayerSlider/edit.php:439
+#: ../framework/plugins/LayerSlider/edit.php:1337
+#: ../framework/plugins/LayerSlider/edit.php:1393
+msgid "Delay"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:376
+#: ../framework/plugins/LayerSlider/add.php:1312
+#: ../framework/plugins/LayerSlider/edit.php:384
+#: ../framework/plugins/LayerSlider/edit.php:1338
+msgid "Delay before the animation start when the layer slides in. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:380
+#: ../framework/plugins/LayerSlider/add.php:1316
+#: ../framework/plugins/LayerSlider/edit.php:388
+#: ../framework/plugins/LayerSlider/edit.php:1342
+msgid "Transition out"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:385
+#: ../framework/plugins/LayerSlider/add.php:1321
+#: ../framework/plugins/LayerSlider/edit.php:393
+#: ../framework/plugins/LayerSlider/edit.php:1347
+msgid "Auto (Slide to auto direction)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:386
+#: ../framework/plugins/LayerSlider/add.php:1322
+#: ../framework/plugins/LayerSlider/edit.php:394
+#: ../framework/plugins/LayerSlider/edit.php:1348
+msgid "Top (Slide to top)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:387
+#: ../framework/plugins/LayerSlider/add.php:1323
+#: ../framework/plugins/LayerSlider/edit.php:395
+#: ../framework/plugins/LayerSlider/edit.php:1349
+msgid "Right (Slide to right)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:388
+#: ../framework/plugins/LayerSlider/add.php:1324
+#: ../framework/plugins/LayerSlider/edit.php:396
+#: ../framework/plugins/LayerSlider/edit.php:1350
+msgid "Bottom (Slide to bottom)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:389
+#: ../framework/plugins/LayerSlider/add.php:1325
+#: ../framework/plugins/LayerSlider/edit.php:397
+#: ../framework/plugins/LayerSlider/edit.php:1351
+msgid "Left (Slide to left)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:393
+#: ../framework/plugins/LayerSlider/add.php:1329
+#: ../framework/plugins/LayerSlider/edit.php:401
+#: ../framework/plugins/LayerSlider/edit.php:1355
+msgid "The duration of the slide out animation. This value is in millisecs, so the value 1000 means 1 second. Lower values results faster animations."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:432
+#: ../framework/plugins/LayerSlider/add.php:1368
+#: ../framework/plugins/LayerSlider/edit.php:440
+#: ../framework/plugins/LayerSlider/edit.php:1394
+msgid "Delay before the animation start when the layer slides out. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:436
+#: ../framework/plugins/LayerSlider/add.php:1372
+#: ../framework/plugins/LayerSlider/edit.php:444
+#: ../framework/plugins/LayerSlider/edit.php:1398
+msgid "Other options"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:437
+#: ../framework/plugins/LayerSlider/add.php:1373
+#: ../framework/plugins/LayerSlider/edit.php:445
+#: ../framework/plugins/LayerSlider/edit.php:1399
+msgid "Distance"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:438
+#: ../framework/plugins/LayerSlider/add.php:1374
+#: ../framework/plugins/LayerSlider/edit.php:446
+#: ../framework/plugins/LayerSlider/edit.php:1400
+msgid "The default value is -1 which means that the layer will be positioned exactly outside the of slide container. You can use the default setting in most of the cases. If you need to set the start or end position of the layer from further of the edges of the slide container, you can use 2, 3 or higher values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:439
+#: ../framework/plugins/LayerSlider/add.php:1375
+#: ../framework/plugins/LayerSlider/edit.php:447
+#: ../framework/plugins/LayerSlider/edit.php:1401
+msgid "Show until"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:440
+#: ../framework/plugins/LayerSlider/add.php:1376
+#: ../framework/plugins/LayerSlider/edit.php:448
+#: ../framework/plugins/LayerSlider/edit.php:1402
+msgid "The layer will be visible for the time you specify here, then it will slide out. You can use this setting for layers to leave the slide before the slide itself animates out, or for example before other layers will slide in. This value in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:442
+#: ../framework/plugins/LayerSlider/add.php:1378
+#: ../framework/plugins/LayerSlider/edit.php:450
+#: ../framework/plugins/LayerSlider/edit.php:1404
+msgid "If you don't want to use this layer, but you want to keep it, you can hide it with this switch."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:443
+#: ../framework/plugins/LayerSlider/add.php:1379
+#: ../framework/plugins/LayerSlider/edit.php:451
+#: ../framework/plugins/LayerSlider/edit.php:1405
+msgid "If you will use similar settings for other layers or you want to experiment on a copy, you can duplicate this layer."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:443
+#: ../framework/plugins/LayerSlider/add.php:1379
+#: ../framework/plugins/LayerSlider/edit.php:451
+msgid "Duplicate this layer"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:451
+#: ../framework/plugins/LayerSlider/add.php:1387
+#: ../framework/plugins/LayerSlider/edit.php:459
+#: ../framework/plugins/LayerSlider/edit.php:1413
+msgid "URL"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:452
+#: ../framework/plugins/LayerSlider/add.php:1388
+#: ../framework/plugins/LayerSlider/edit.php:460
+#: ../framework/plugins/LayerSlider/edit.php:1414
+msgid "If you want to link your layer, type here the URL."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:454
+#: ../framework/plugins/LayerSlider/add.php:1390
+#: ../framework/plugins/LayerSlider/edit.php:462
+#: ../framework/plugins/LayerSlider/edit.php:1416
+msgid "You can control here the link behaviour: _self means the linked page will open in the current tab/window, _blank will open it in a new tab/window."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:470
+#: ../framework/plugins/LayerSlider/add.php:1406
+#: ../framework/plugins/LayerSlider/edit.php:478
+#: ../framework/plugins/LayerSlider/edit.php:1433
+msgid "Layout & Positions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:471
+#: ../framework/plugins/LayerSlider/add.php:606
+#: ../framework/plugins/LayerSlider/add.php:1407
+#: ../framework/plugins/LayerSlider/edit.php:479
+#: ../framework/plugins/LayerSlider/edit.php:1434
+msgid "Width"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:472
+#: ../framework/plugins/LayerSlider/add.php:1408
+#: ../framework/plugins/LayerSlider/edit.php:480
+#: ../framework/plugins/LayerSlider/edit.php:1435
+#, php-format
+msgid "You can set the width of your layer. You can use pixels, percents, or the default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:474
+#: ../framework/plugins/LayerSlider/add.php:1410
+#: ../framework/plugins/LayerSlider/edit.php:482
+#: ../framework/plugins/LayerSlider/edit.php:1437
+#, php-format
+msgid "You can set the height of your layer. You can use pixels, percents, or the default value 'auto'. Examples: 100px, 50% or auto"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:475
+#: ../framework/plugins/LayerSlider/add.php:482
+#: ../framework/plugins/LayerSlider/add.php:493
+#: ../framework/plugins/LayerSlider/add.php:1411
+#: ../framework/plugins/LayerSlider/add.php:1418
+#: ../framework/plugins/LayerSlider/add.php:1429
+#: ../framework/plugins/LayerSlider/builder.php:464
+#: ../framework/plugins/LayerSlider/builder.php:1006
+#: ../framework/plugins/LayerSlider/edit.php:483
+#: ../framework/plugins/LayerSlider/edit.php:490
+#: ../framework/plugins/LayerSlider/edit.php:501
+#: ../framework/plugins/LayerSlider/edit.php:1438
+#: ../framework/plugins/LayerSlider/edit.php:1445
+#: ../framework/plugins/LayerSlider/edit.php:1456
+msgid "Top"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:476
+#: ../framework/plugins/LayerSlider/add.php:1412
+#: ../framework/plugins/LayerSlider/edit.php:484
+#: ../framework/plugins/LayerSlider/edit.php:1439
+msgid "The layer position from the top of the slide. You can use pixels and percents. Examples: 100px or 50%. You can move your layers in the preview above with a drag n' drop, or set the exact values here."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:477
+#: ../framework/plugins/LayerSlider/add.php:488
+#: ../framework/plugins/LayerSlider/add.php:499
+#: ../framework/plugins/LayerSlider/add.php:1413
+#: ../framework/plugins/LayerSlider/add.php:1424
+#: ../framework/plugins/LayerSlider/add.php:1435
+#: ../framework/plugins/LayerSlider/builder.php:467
+#: ../framework/plugins/LayerSlider/builder.php:1009
+#: ../framework/plugins/LayerSlider/edit.php:485
+#: ../framework/plugins/LayerSlider/edit.php:496
+#: ../framework/plugins/LayerSlider/edit.php:507
+#: ../framework/plugins/LayerSlider/edit.php:1440
+#: ../framework/plugins/LayerSlider/edit.php:1451
+#: ../framework/plugins/LayerSlider/edit.php:1462
+msgid "Left"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:478
+#: ../framework/plugins/LayerSlider/add.php:1414
+#: ../framework/plugins/LayerSlider/edit.php:486
+#: ../framework/plugins/LayerSlider/edit.php:1441
+msgid "The layer position from the left side of the slide. You can use pixels and percents. Examples: 100px or 50%. You can move your layers in the preview above with a drag n' drop, or set the exact values here."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:481
+#: ../framework/plugins/LayerSlider/add.php:1417
+#: ../framework/plugins/LayerSlider/edit.php:489
+#: ../framework/plugins/LayerSlider/edit.php:1444
+msgid "Padding"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:483
+#: ../framework/plugins/LayerSlider/add.php:1419
+#: ../framework/plugins/LayerSlider/edit.php:491
+#: ../framework/plugins/LayerSlider/edit.php:1446
+msgid "Padding on the top of the layer. Example: 10px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:484
+#: ../framework/plugins/LayerSlider/add.php:495
+#: ../framework/plugins/LayerSlider/add.php:1420
+#: ../framework/plugins/LayerSlider/add.php:1431
+#: ../framework/plugins/LayerSlider/builder.php:465
+#: ../framework/plugins/LayerSlider/builder.php:1007
+#: ../framework/plugins/LayerSlider/edit.php:492
+#: ../framework/plugins/LayerSlider/edit.php:503
+#: ../framework/plugins/LayerSlider/edit.php:1447
+#: ../framework/plugins/LayerSlider/edit.php:1458
+msgid "Right"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:485
+#: ../framework/plugins/LayerSlider/add.php:1421
+#: ../framework/plugins/LayerSlider/edit.php:493
+#: ../framework/plugins/LayerSlider/edit.php:1448
+msgid "Padding on the right side of the layer. Example: 10px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:486
+#: ../framework/plugins/LayerSlider/add.php:497
+#: ../framework/plugins/LayerSlider/add.php:1422
+#: ../framework/plugins/LayerSlider/add.php:1433
+#: ../framework/plugins/LayerSlider/builder.php:466
+#: ../framework/plugins/LayerSlider/builder.php:1008
+#: ../framework/plugins/LayerSlider/edit.php:494
+#: ../framework/plugins/LayerSlider/edit.php:505
+#: ../framework/plugins/LayerSlider/edit.php:1449
+#: ../framework/plugins/LayerSlider/edit.php:1460
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:487
+#: ../framework/plugins/LayerSlider/add.php:1423
+#: ../framework/plugins/LayerSlider/edit.php:495
+#: ../framework/plugins/LayerSlider/edit.php:1450
+msgid "Padding on the bottom of the layer. Example: 10px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:489
+#: ../framework/plugins/LayerSlider/add.php:1425
+#: ../framework/plugins/LayerSlider/edit.php:497
+#: ../framework/plugins/LayerSlider/edit.php:1452
+msgid "Padding on the left side of the layer. Example: 10px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:492
+#: ../framework/plugins/LayerSlider/add.php:1428
+#: ../framework/plugins/LayerSlider/edit.php:500
+#: ../framework/plugins/LayerSlider/edit.php:1455
+msgid "Border"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:494
+#: ../framework/plugins/LayerSlider/add.php:1430
+#: ../framework/plugins/LayerSlider/edit.php:502
+#: ../framework/plugins/LayerSlider/edit.php:1457
+msgid "Border on the top of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:496
+#: ../framework/plugins/LayerSlider/add.php:1432
+#: ../framework/plugins/LayerSlider/edit.php:504
+#: ../framework/plugins/LayerSlider/edit.php:1459
+msgid "Border on the right side of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:498
+#: ../framework/plugins/LayerSlider/add.php:1434
+#: ../framework/plugins/LayerSlider/edit.php:506
+#: ../framework/plugins/LayerSlider/edit.php:1461
+msgid "Border on the bottom of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:500
+#: ../framework/plugins/LayerSlider/add.php:1436
+#: ../framework/plugins/LayerSlider/edit.php:508
+#: ../framework/plugins/LayerSlider/edit.php:1463
+msgid "Border on the left side of the layer. Example: 5px solid #000"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:503
+#: ../framework/plugins/LayerSlider/add.php:1439
+#: ../framework/plugins/LayerSlider/edit.php:511
+#: ../framework/plugins/LayerSlider/edit.php:1466
+msgid "Font"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:504
+#: ../framework/plugins/LayerSlider/add.php:1440
+#: ../framework/plugins/LayerSlider/edit.php:512
+#: ../framework/plugins/LayerSlider/edit.php:1467
+msgid "Family"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:505
+#: ../framework/plugins/LayerSlider/add.php:1441
+#: ../framework/plugins/LayerSlider/edit.php:513
+#: ../framework/plugins/LayerSlider/edit.php:1468
+msgid "List of your chosen fonts separated with a comma. Please use apostrophes if your font names contains white spaces. Example: Helvetica, Arial, sans-serif"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:507
+#: ../framework/plugins/LayerSlider/add.php:1443
+#: ../framework/plugins/LayerSlider/edit.php:515
+#: ../framework/plugins/LayerSlider/edit.php:1470
+msgid "The font size in pixels. Example: 16px."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:508
+#: ../framework/plugins/LayerSlider/add.php:1444
+#: ../framework/plugins/LayerSlider/edit.php:516
+#: ../framework/plugins/LayerSlider/edit.php:1471
+msgid "Line-height"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:509
+#: ../framework/plugins/LayerSlider/add.php:1445
+#: ../framework/plugins/LayerSlider/edit.php:517
+#: ../framework/plugins/LayerSlider/edit.php:1472
+msgid "The line height of your text. The default setting is 'normal'. Example: 22px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:510
+#: ../framework/plugins/LayerSlider/add.php:1446
+#: ../framework/plugins/LayerSlider/edit.php:518
+#: ../framework/plugins/LayerSlider/edit.php:1473
+msgid "Color"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:511
+#: ../framework/plugins/LayerSlider/add.php:1447
+#: ../framework/plugins/LayerSlider/edit.php:519
+#: ../framework/plugins/LayerSlider/edit.php:1474
+msgid "The color of your text. You can use color names, hexadecimal, RGB or RGBA values. Example: #333"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:516
+#: ../framework/plugins/LayerSlider/add.php:1452
+#: ../framework/plugins/LayerSlider/edit.php:524
+#: ../framework/plugins/LayerSlider/edit.php:1479
+msgid "The background color of your layer. You can use color names, hexadecimal, RGB or RGBA values as well as the 'transparent' keyword. Example: #FFF"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:517
+#: ../framework/plugins/LayerSlider/add.php:1453
+#: ../framework/plugins/LayerSlider/edit.php:525
+#: ../framework/plugins/LayerSlider/edit.php:1480
+msgid "Rounded corners"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:518
+#: ../framework/plugins/LayerSlider/add.php:1454
+#: ../framework/plugins/LayerSlider/edit.php:526
+#: ../framework/plugins/LayerSlider/edit.php:1481
+msgid "If you want rounded corners, you can set here its radius. Example: 5px"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:519
+#: ../framework/plugins/LayerSlider/add.php:1455
+#: ../framework/plugins/LayerSlider/edit.php:527
+#: ../framework/plugins/LayerSlider/edit.php:1482
+msgid "Word-wrap"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:520
+#: ../framework/plugins/LayerSlider/add.php:1456
+#: ../framework/plugins/LayerSlider/edit.php:528
+#: ../framework/plugins/LayerSlider/edit.php:1483
+msgid "If you use custom sized layers, you have to enable this setting to wrap your text."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:523
+#: ../framework/plugins/LayerSlider/add.php:1459
+#: ../framework/plugins/LayerSlider/edit.php:531
+#: ../framework/plugins/LayerSlider/edit.php:1486
+msgid "Custom style settings"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:524
+#: ../framework/plugins/LayerSlider/add.php:1460
+#: ../framework/plugins/LayerSlider/edit.php:532
+#: ../framework/plugins/LayerSlider/edit.php:1487
+msgid "Custom styles"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:525
+#: ../framework/plugins/LayerSlider/add.php:1461
+#: ../framework/plugins/LayerSlider/edit.php:533
+#: ../framework/plugins/LayerSlider/edit.php:1488
+msgid "If you want to set style settings other then above, you can use here any CSS codes. Please make sure to write valid markup."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:535
+#: ../framework/plugins/LayerSlider/add.php:1471
+#: ../framework/plugins/LayerSlider/edit.php:543
+#: ../framework/plugins/LayerSlider/edit.php:1498
+msgid "ID"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:536
+#: ../framework/plugins/LayerSlider/add.php:1472
+#: ../framework/plugins/LayerSlider/edit.php:544
+#: ../framework/plugins/LayerSlider/edit.php:1499
+msgid "You can apply an ID attribute on the HTML element of this layer to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:537
+#: ../framework/plugins/LayerSlider/add.php:1473
+#: ../framework/plugins/LayerSlider/edit.php:545
+#: ../framework/plugins/LayerSlider/edit.php:1500
+msgid "Classes"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:538
+#: ../framework/plugins/LayerSlider/add.php:1474
+#: ../framework/plugins/LayerSlider/edit.php:546
+#: ../framework/plugins/LayerSlider/edit.php:1501
+msgid "You can apply classes on the HTML element of this layer to work with it in your custom CSS or Javascript code."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:540
+#: ../framework/plugins/LayerSlider/add.php:1476
+#: ../framework/plugins/LayerSlider/edit.php:548
+#: ../framework/plugins/LayerSlider/edit.php:1503
+msgid "You can add a title to this layer which will display as a tooltip if someone holds his mouse cursor over the layer."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:541
+#: ../framework/plugins/LayerSlider/add.php:1477
+#: ../framework/plugins/LayerSlider/edit.php:549
+#: ../framework/plugins/LayerSlider/edit.php:1504
+msgid "Alt"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:542
+#: ../framework/plugins/LayerSlider/add.php:1478
+#: ../framework/plugins/LayerSlider/edit.php:550
+#: ../framework/plugins/LayerSlider/edit.php:1505
+msgid "You can add an alternative text to your layer which is indexed by search engine robots and it helps people with certain disabilities."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:543
+#: ../framework/plugins/LayerSlider/add.php:1479
+#: ../framework/plugins/LayerSlider/edit.php:551
+#: ../framework/plugins/LayerSlider/edit.php:1506
+msgid "Rel"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:544
+#: ../framework/plugins/LayerSlider/add.php:1480
+#: ../framework/plugins/LayerSlider/edit.php:552
+#: ../framework/plugins/LayerSlider/edit.php:1507
+msgid "Some plugin may use the rel attribute of a linked content, here you can specify it to make interaction with these plugins."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:555
+#: ../framework/plugins/LayerSlider/add.php:1491
+#: ../framework/plugins/LayerSlider/edit.php:563
+#: ../framework/plugins/LayerSlider/edit.php:1520
+msgid "Add new layer"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:566
+msgid "Add new LayerSlider"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:567
+#: ../framework/plugins/LayerSlider/builder.php:500
+#: ../framework/plugins/LayerSlider/edit.php:575
+#: ../framework/plugins/LayerSlider/editor.php:32
+#: ../framework/plugins/LayerSlider/style_editor.php:20
+msgid "Back to the list"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:572
+#: ../framework/plugins/LayerSlider/add.php:594
+#: ../framework/plugins/LayerSlider/edit.php:580
+#: ../framework/plugins/LayerSlider/edit.php:602
+msgid "Global Settings"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:574
+#: ../framework/plugins/LayerSlider/edit.php:582
+msgid "Event Callbacks"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:575
+#: ../framework/plugins/LayerSlider/edit.php:583
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:588
+#: ../framework/plugins/LayerSlider/edit.php:596
+msgid "Type your slider name here"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:608
+#: ../framework/plugins/LayerSlider/edit.php:616
+msgid "The slider width in pixels. For compatibility reasons, we still support percentage values, but for responsive layout, you should use pixels."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:613
+#: ../framework/plugins/LayerSlider/edit.php:621
+msgid "The slider height in pixels."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:616
+#: ../framework/plugins/LayerSlider/edit.php:624
+msgid "Responsive"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:618
+#: ../framework/plugins/LayerSlider/edit.php:626
+msgid "Enable this option to turn LayerSlider into a responsive slider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:621
+#: ../framework/plugins/LayerSlider/edit.php:629
+msgid "Full-width slider"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:623
+#: ../framework/plugins/LayerSlider/edit.php:631
+msgid "When you are using a responsiveness or percentage dimensions for the slider, it will respond the parent element size changes. With tis option you can bypass this behaviour and LayerSlider will be a full-width slider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:626
+#: ../framework/plugins/LayerSlider/edit.php:634
+msgid "Responsive under"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:628
+#: ../framework/plugins/LayerSlider/edit.php:636
+msgid "You can force the slider to change automatically into responsive mode but only if the slider width is smaller than responsiveUnder pixels. It can be used if you need a full-width slider with fixed height but you also need it to be responsive if the browser is smaller... Important! If you enter a value higher than 0, the normal responsive mode will be switched off automatically!"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:631
+#: ../framework/plugins/LayerSlider/edit.php:639
+msgid "Layers Container"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:633
+#: ../framework/plugins/LayerSlider/edit.php:641
+msgid "This feature is needed if you are using a full-width slider and you need that your layers forced to positioning inside a centered custom width container. Just specify the width of this container in pixels! Note, that this feature is working only with pixel-positioned layers, but of course if you add left: 50% position to a layer it will be positioned horizontally to the center, as before!"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:640
+#: ../framework/plugins/LayerSlider/edit.php:648
+msgid "Slideshow"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:646
+#: ../framework/plugins/LayerSlider/edit.php:654
+msgid "Automatically start slideshow"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:648
+#: ../framework/plugins/LayerSlider/edit.php:656
+msgid "If enabled, slideshow will automatically start after loading the page."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:651
+#: ../framework/plugins/LayerSlider/edit.php:659
+msgid "Pause on hover"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:653
+#: ../framework/plugins/LayerSlider/edit.php:661
+msgid "Slideshow will pause when mouse pointer is over LayerSlider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:656
+#: ../framework/plugins/LayerSlider/edit.php:664
+msgid "First slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:658
+#: ../framework/plugins/LayerSlider/edit.php:666
+msgid "LayerSlider will start with this slide (you can type the word <i>random</i> if you want the slider to start with a random slide)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:661
+#: ../framework/plugins/LayerSlider/edit.php:669
+msgid "Animate first slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:663
+#: ../framework/plugins/LayerSlider/edit.php:671
+msgid "If enabled, the layers of the first slide will animate (slide in) instead of fading in with the slide."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:666
+#: ../framework/plugins/LayerSlider/edit.php:674
+msgid "Random slideshow"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:668
+#: ../framework/plugins/LayerSlider/edit.php:676
+msgid "LayerSlider will change to a random slide instead of changing to the next / prev slide. Note that 'loops' feature won't work with this option."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:671
+#: ../framework/plugins/LayerSlider/edit.php:679
+msgid "Two way slideshow"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:673
+#: ../framework/plugins/LayerSlider/edit.php:681
+msgid "If enabled, slideshow will go backwards if you click the prev button."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:676
+#: ../framework/plugins/LayerSlider/edit.php:684
+msgid "Loops"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:684
+#: ../framework/plugins/LayerSlider/edit.php:696
+msgid "Number of loops if automatically start slideshow is enabled (0 means infinite!)"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:687
+#: ../framework/plugins/LayerSlider/edit.php:699
+msgid "Force the number of loops"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:689
+#: ../framework/plugins/LayerSlider/edit.php:701
+msgid "If enabled, the slider will always stop at the given number of loops even if the user restarts the slideshow."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:692
+#: ../framework/plugins/LayerSlider/edit.php:704
+msgid "Automatically play videos"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:694
+#: ../framework/plugins/LayerSlider/edit.php:706
+msgid "If enabled, the slider will automatically play youtube and vimeo videos."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:697
+#: ../framework/plugins/LayerSlider/edit.php:709
+msgid "Automatically pause slideshow"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:700
+msgid "auto"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:701
+msgid "enabled"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:702
+#: ../framework/plugins/LayerSlider/add.php:824
+msgid "disabled"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:705
+#: ../framework/plugins/LayerSlider/edit.php:717
+msgid "If you enabled automatically play videos, the auto value means that the slideshow will stop UNTIL the video is playing and after that it continues. Enabled means slideshow will stop and it won't continue after video is played."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:708
+#: ../framework/plugins/LayerSlider/edit.php:720
+msgid "Youtube preview"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:711
+#: ../framework/plugins/LayerSlider/edit.php:723
+msgid "Maximum quality"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:712
+#: ../framework/plugins/LayerSlider/edit.php:724
+msgid "High quality"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:713
+#: ../framework/plugins/LayerSlider/edit.php:725
+msgid "Medium quality"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:714
+#: ../framework/plugins/LayerSlider/edit.php:726
+msgid "Default quality"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:717
+#: ../framework/plugins/LayerSlider/edit.php:729
+msgid "Default thumbnail picture of YouTube videos. Note, that Maximum quaility is not available to all (not HD) videos."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:720
+#: ../framework/plugins/LayerSlider/edit.php:732
+msgid "Keyboard navigation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:722
+#: ../framework/plugins/LayerSlider/edit.php:734
+msgid "You can navigate with the left and right arrow keys."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:725
+#: ../framework/plugins/LayerSlider/edit.php:737
+msgid "Touch navigation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:727
+#: ../framework/plugins/LayerSlider/edit.php:739
+msgid "Touch-control (on mobile devices)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:734
+#: ../framework/plugins/LayerSlider/edit.php:746
+msgid "Appearance"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:740
+#: ../framework/plugins/LayerSlider/edit.php:752
+msgid "Skin"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:754
+#: ../framework/plugins/LayerSlider/edit.php:766
+msgid "You can change the skin of the slider. The 'noskin' skin is a border- and buttonless skin. Your custom skins will appear in the list when you create their folders as well."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:763
+#: ../framework/plugins/LayerSlider/edit.php:775
+msgid "Background color of LayerSlider. You can use all CSS methods, like hexa colors, rgb(r,g,b) method, color names, etc. Note, that slides with background are covering the global background."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:766
+#: ../framework/plugins/LayerSlider/edit.php:778
+msgid "Background image"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:773
+#: ../framework/plugins/LayerSlider/edit.php:785
+msgid "Background image of LayerSlider. This will be a fixed background image of LayerSlider by default. Note, that slides with background are covering the global background image."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:776
+#: ../framework/plugins/LayerSlider/edit.php:788
+msgid "Slider style"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:783
+#: ../framework/plugins/LayerSlider/edit.php:795
+msgid "Here you can apply your custom CSS style settings to the slider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:790
+#: ../framework/plugins/LayerSlider/edit.php:802
+msgid "Navigation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:796
+#: ../framework/plugins/LayerSlider/edit.php:808
+msgid "Prev and Next buttons"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:798
+#: ../framework/plugins/LayerSlider/edit.php:810
+msgid "If disabled, Prev and Next buttons will be invisible."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:801
+#: ../framework/plugins/LayerSlider/edit.php:813
+msgid "Start and Stop buttons"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:803
+#: ../framework/plugins/LayerSlider/edit.php:815
+msgid "If disabled, Start and Stop buttons will be invisible."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:806
+#: ../framework/plugins/LayerSlider/edit.php:818
+msgid "Navigation buttons"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:808
+#: ../framework/plugins/LayerSlider/edit.php:820
+msgid "If disabled, slide buttons will be invisible."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:811
+#: ../framework/plugins/LayerSlider/edit.php:823
+msgid "Prev and next buttons on hover"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:813
+#: ../framework/plugins/LayerSlider/edit.php:825
+msgid "If enabled, the prev and next buttons will be shown only if you move your mouse cursor over the slider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:816
+#: ../framework/plugins/LayerSlider/edit.php:828
+msgid "Bottom navigation on hover"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:818
+#: ../framework/plugins/LayerSlider/edit.php:830
+msgid "The bottom navigation controls (with also thumbnails) will be shown only if you move your mouse cursor over the slider."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:821
+#: ../framework/plugins/LayerSlider/edit.php:833
+msgid "Thumbnail navigation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:825
+msgid "hover"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:826
+msgid "always"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:832
+#: ../framework/plugins/LayerSlider/edit.php:845
+msgid "Thumbnail width"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:834
+#: ../framework/plugins/LayerSlider/edit.php:847
+msgid "The width of the thumbnails in the navigation area."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:837
+#: ../framework/plugins/LayerSlider/edit.php:850
+msgid "Thumbnail height"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:839
+#: ../framework/plugins/LayerSlider/edit.php:852
+msgid "The height of the thumbnails in the navigation area."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:842
+#: ../framework/plugins/LayerSlider/edit.php:855
+msgid "Thumbnail container width"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:844
+#: ../framework/plugins/LayerSlider/edit.php:857
+msgid "The width of the thumbnail navigation area."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:847
+#: ../framework/plugins/LayerSlider/edit.php:860
+msgid "Thumbnail active opacity"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:849
+#: ../framework/plugins/LayerSlider/edit.php:862
+msgid "The selected thumbnail opacity (0-100)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:852
+#: ../framework/plugins/LayerSlider/edit.php:865
+msgid "Thumbnail inactive opacity"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:854
+#: ../framework/plugins/LayerSlider/edit.php:867
+msgid "The opacity of inactive thumbnails (0-100)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:867
+#: ../framework/plugins/LayerSlider/edit.php:880
+msgid "Image preload"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:869
+#: ../framework/plugins/LayerSlider/edit.php:882
+msgid "Preloads all images and background-images of the next slide."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:872
+#: ../framework/plugins/LayerSlider/edit.php:885
+msgid "Use relative URLs"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:874
+#: ../framework/plugins/LayerSlider/edit.php:887
+msgid "If enabled, LayerSlider WP will use relative URLs for images."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:881
+#: ../framework/plugins/LayerSlider/edit.php:894
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:887
+#: ../framework/plugins/LayerSlider/edit.php:900
+msgid "Put JS includes to body"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:889
+#: ../framework/plugins/LayerSlider/edit.php:902
+msgid "If the slider doesn't showing up on your front-end page, you probably have a jQuery conflict when multiple libraries loaded to the document and causes a Javascript error. Enabling this option may solve your problem. Please don't enable this option if you don't experiencing any issues."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:896
+#: ../framework/plugins/LayerSlider/add.php:902
+#: ../framework/plugins/LayerSlider/edit.php:909
+#: ../framework/plugins/LayerSlider/edit.php:915
+msgid "YourLogo"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:909
+#: ../framework/plugins/LayerSlider/edit.php:922
+msgid "This is a fixed layer that will be shown above of LayerSlider container. For example if you want to display your own logo, etc., you can upload an image or choose one from the Media Library."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:912
+#: ../framework/plugins/LayerSlider/edit.php:925
+msgid "YourLogo style"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:914
+#: ../framework/plugins/LayerSlider/edit.php:927
+msgid "You can style your logo. You can use any CSS properties, for example you can add left and top properties to place the image inside the LayerSlider container anywhere you want."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:917
+#: ../framework/plugins/LayerSlider/edit.php:930
+msgid "YourLogo link"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:924
+#: ../framework/plugins/LayerSlider/edit.php:937
+msgid "You can add a link to your logo. Set false is you want to display only an image without a link."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:927
+#: ../framework/plugins/LayerSlider/edit.php:940
+msgid "YourLogo link target"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:936
+#: ../framework/plugins/LayerSlider/edit.php:950
+msgid "If '_blank', the clicked url will open in a new window."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:948
+#: ../framework/plugins/LayerSlider/edit.php:965
+msgid "Add new slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:1011
+#: ../framework/plugins/LayerSlider/edit.php:83
+#: ../framework/plugins/LayerSlider/edit.php:1031
+msgid "You can control here the timing of the layer animations when the slider changes to this slide with a 3D/2D transition. Zero means that the layers of this slide will animate in when the slide transition ends. You can time-shift the starting time of the layer animations with positive or negative values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:1558
+#: ../framework/plugins/LayerSlider/builder.php:1045
+#: ../framework/plugins/LayerSlider/edit.php:1589
+msgid "Publish"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/add.php:1560
+#: ../framework/plugins/LayerSlider/builder.php:1048
+#: ../framework/plugins/LayerSlider/edit.php:1591
+#: ../framework/plugins/LayerSlider/editor.php:66
+#: ../framework/plugins/LayerSlider/list.php:85
+#: ../framework/plugins/LayerSlider/list.php:116
+#: ../framework/plugins/LayerSlider/style_editor.php:37
+msgid "Save changes"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:87
+#: ../framework/plugins/LayerSlider/builder.php:369
+#: ../framework/plugins/LayerSlider/builder.php:577
+#: ../framework/plugins/LayerSlider/builder.php:909
+msgid "Basic properties"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:92
+#: ../framework/plugins/LayerSlider/builder.php:374
+#: ../framework/plugins/LayerSlider/builder.php:582
+#: ../framework/plugins/LayerSlider/builder.php:914
+msgid "Transition name"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:93
+#: ../framework/plugins/LayerSlider/builder.php:375
+#: ../framework/plugins/LayerSlider/builder.php:583
+#: ../framework/plugins/LayerSlider/builder.php:915
+msgid "The name of your custom transition. When you will edit a slider, it will appear with this name, so you can easily identify the individual transitions."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:96
+#: ../framework/plugins/LayerSlider/builder.php:378
+#: ../framework/plugins/LayerSlider/builder.php:588
+#: ../framework/plugins/LayerSlider/builder.php:920
+msgid "Rows"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:97
+#: ../framework/plugins/LayerSlider/builder.php:379
+#: ../framework/plugins/LayerSlider/builder.php:589
+#: ../framework/plugins/LayerSlider/builder.php:921
+msgid "<number> or <min_number>,<max_number> If you specify a value greater than 1, LayerSlider will cut your slide into tiles. You can specify here how many rows of your transition should have. If you specify two numbers separated with a comma, LayerSlider will use that as a range and pick a random number between your values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:98
+#: ../framework/plugins/LayerSlider/builder.php:380
+#: ../framework/plugins/LayerSlider/builder.php:590
+#: ../framework/plugins/LayerSlider/builder.php:922
+msgid "Cols"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:99
+#: ../framework/plugins/LayerSlider/builder.php:381
+#: ../framework/plugins/LayerSlider/builder.php:591
+#: ../framework/plugins/LayerSlider/builder.php:923
+msgid "<number> or <min_number>,<max_number> If you specify a value greater than 1, LayerSlider will cut your slide into tiles. You can specify here how many columns of your transition should have. If you specify two numbers separated with a comma, LayerSlider will use that as a range and pick a random number between your values."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:104
+#: ../framework/plugins/LayerSlider/builder.php:386
+#: ../framework/plugins/LayerSlider/builder.php:596
+#: ../framework/plugins/LayerSlider/builder.php:928
+msgid "Tiles"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:110
+#: ../framework/plugins/LayerSlider/builder.php:392
+#: ../framework/plugins/LayerSlider/builder.php:602
+#: ../framework/plugins/LayerSlider/builder.php:934
+msgid "You can apply a delay between the tiles and postpone their animation relative to each other."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:111
+#: ../framework/plugins/LayerSlider/builder.php:393
+#: ../framework/plugins/LayerSlider/builder.php:603
+#: ../framework/plugins/LayerSlider/builder.php:935
+msgid "Sequence"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:113
+#: ../framework/plugins/LayerSlider/builder.php:395
+#: ../framework/plugins/LayerSlider/builder.php:605
+#: ../framework/plugins/LayerSlider/builder.php:937
+msgid "You can control the animation order of the tiles here."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:114
+#: ../framework/plugins/LayerSlider/builder.php:396
+#: ../framework/plugins/LayerSlider/builder.php:606
+#: ../framework/plugins/LayerSlider/builder.php:938
+msgid "Forward"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:115
+#: ../framework/plugins/LayerSlider/builder.php:397
+#: ../framework/plugins/LayerSlider/builder.php:607
+#: ../framework/plugins/LayerSlider/builder.php:939
+msgid "Reverse"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:116
+#: ../framework/plugins/LayerSlider/builder.php:398
+#: ../framework/plugins/LayerSlider/builder.php:608
+#: ../framework/plugins/LayerSlider/builder.php:940
+msgid "Col-forward"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:117
+#: ../framework/plugins/LayerSlider/builder.php:399
+#: ../framework/plugins/LayerSlider/builder.php:609
+#: ../framework/plugins/LayerSlider/builder.php:941
+msgid "Col-reverse"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:125
+#: ../framework/plugins/LayerSlider/builder.php:617
+msgid "Depth"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:127
+#: ../framework/plugins/LayerSlider/builder.php:619
+msgid "The script will try to identify the optimal depth for your rotated objects (tiles). With this option, you can force your objects to have large depth when performing 180 degree (and its multiplies) rotation."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:137
+#: ../framework/plugins/LayerSlider/builder.php:633
+msgid "Before animation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:147
+#: ../framework/plugins/LayerSlider/builder.php:204
+#: ../framework/plugins/LayerSlider/builder.php:283
+#: ../framework/plugins/LayerSlider/builder.php:643
+#: ../framework/plugins/LayerSlider/builder.php:713
+#: ../framework/plugins/LayerSlider/builder.php:801
+msgid "The duration of your animation. This value is in millisecs, so the value 1000 means 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:150
+#: ../framework/plugins/LayerSlider/builder.php:207
+#: ../framework/plugins/LayerSlider/builder.php:286
+#: ../framework/plugins/LayerSlider/builder.php:416
+#: ../framework/plugins/LayerSlider/builder.php:647
+#: ../framework/plugins/LayerSlider/builder.php:716
+#: ../framework/plugins/LayerSlider/builder.php:805
+#: ../framework/plugins/LayerSlider/builder.php:958
+msgid "The timing function of the animation, with it you can manipualte the movement of the animated object. Please click on the link next to this select field to open easings.net for more information and real-time examples."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:183
+#: ../framework/plugins/LayerSlider/builder.php:259
+#: ../framework/plugins/LayerSlider/builder.php:319
+#: ../framework/plugins/LayerSlider/builder.php:527
+#: ../framework/plugins/LayerSlider/builder.php:546
+#: ../framework/plugins/LayerSlider/builder.php:692
+#: ../framework/plugins/LayerSlider/builder.php:773
+#: ../framework/plugins/LayerSlider/builder.php:850
+msgid "Add new"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:185
+#: ../framework/plugins/LayerSlider/builder.php:261
+#: ../framework/plugins/LayerSlider/builder.php:321
+#: ../framework/plugins/LayerSlider/builder.php:694
+#: ../framework/plugins/LayerSlider/builder.php:775
+#: ../framework/plugins/LayerSlider/builder.php:852
+msgid "Scale3D"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:186
+#: ../framework/plugins/LayerSlider/builder.php:252
+#: ../framework/plugins/LayerSlider/builder.php:262
+#: ../framework/plugins/LayerSlider/builder.php:322
+#: ../framework/plugins/LayerSlider/builder.php:695
+#: ../framework/plugins/LayerSlider/builder.php:776
+#: ../framework/plugins/LayerSlider/builder.php:853
+msgid "RotateX"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:187
+#: ../framework/plugins/LayerSlider/builder.php:263
+#: ../framework/plugins/LayerSlider/builder.php:323
+#: ../framework/plugins/LayerSlider/builder.php:696
+#: ../framework/plugins/LayerSlider/builder.php:777
+#: ../framework/plugins/LayerSlider/builder.php:854
+msgid "RotateY"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:197
+#: ../framework/plugins/LayerSlider/builder.php:706
+msgid "Animation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:241
+#: ../framework/plugins/LayerSlider/builder.php:750
+msgid "The direction of rotation."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:242
+#: ../framework/plugins/LayerSlider/builder.php:751
+msgid "Vertical"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:243
+#: ../framework/plugins/LayerSlider/builder.php:752
+msgid "Horizontal"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:273
+#: ../framework/plugins/LayerSlider/builder.php:791
+msgid "After animation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:332
+#: ../framework/plugins/LayerSlider/builder.php:479
+#: ../framework/plugins/LayerSlider/builder.php:863
+#: ../framework/plugins/LayerSlider/builder.php:1021
+msgid "Transition options"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:338
+#: ../framework/plugins/LayerSlider/builder.php:485
+#: ../framework/plugins/LayerSlider/builder.php:869
+#: ../framework/plugins/LayerSlider/builder.php:1027
+msgid "Remove transition"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:407
+#: ../framework/plugins/LayerSlider/builder.php:949
+msgid "Transition"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:413
+#: ../framework/plugins/LayerSlider/builder.php:955
+msgid "The duration of the animation. This value is in millisecs, so the value 1000 measn 1 second."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:455
+#: ../framework/plugins/LayerSlider/builder.php:997
+msgid "The type of the animation, either slide, fade or both (mixed)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:456
+#: ../framework/plugins/LayerSlider/builder.php:998
+msgid "Slide"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:458
+#: ../framework/plugins/LayerSlider/builder.php:1000
+msgid "Mixed"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:463
+#: ../framework/plugins/LayerSlider/builder.php:1005
+msgid "The direction of the slide or mixed animation if you chose these type in the previous setting."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:469
+#: ../framework/plugins/LayerSlider/builder.php:1011
+msgid "Top left"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:470
+#: ../framework/plugins/LayerSlider/builder.php:1012
+msgid "Top right"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:471
+#: ../framework/plugins/LayerSlider/builder.php:1013
+msgid "Bottom left"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:472
+#: ../framework/plugins/LayerSlider/builder.php:1014
+msgid "Bottom right"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:499
+msgid "LayerSlider Transition Builder"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:504
+#: ../framework/plugins/LayerSlider/editor.php:36
+#: ../framework/plugins/LayerSlider/style_editor.php:24
+msgid "Your changes has been saved!"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:514
+msgid "3D transitions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:516
+#: ../framework/plugins/LayerSlider/builder.php:535
+msgid "Choose:"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:526
+#: ../framework/plugins/LayerSlider/builder.php:545
+msgid "or"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:533
+msgid "2D transitions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:1052
+msgid "Before you can save your changes, you need to make writeable your \"/wp-content/uploads\" folder. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a>"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:1076
+msgid "Transition Builder documentation"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/builder.php:1076
+msgid "To get started with the LayerSlider WP Transition Builder, please read our documentation by clicking on this \"Help\" menu item."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/edit.php:574
+msgid "Edit this LayerSlider"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/edit.php:614
+msgid "Slider width"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/edit.php:619
+msgid "Slider height"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/edit.php:1122
+msgid "Link this slide "
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/edit.php:1405
+msgid "Duplicate this sublayer"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/editor.php:31
+msgid "LayerSlider Skin Editor"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/editor.php:42
+#: ../framework/plugins/LayerSlider/layerslider.php:621
+msgid "Skin Editor"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/editor.php:44
+msgid "Choose a skin:"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/editor.php:64
+msgid "You need to make this file writable before you can save your changes. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> for more information."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/editor.php:67
+msgid "Modifying a skin could be dangerous, these changes will be permanent, you can't revert it."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:216
+#: ../framework/plugins/LayerSlider/list.php:89
+msgid "Thank you for purchasing LayerSlider WP. You successfully validated your purchase code for auto-updates."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:224
+#: ../framework/plugins/LayerSlider/list.php:91
+msgid "Your purchase code doesn't appear to be valid. Please make sure that you entered your purchase code correctly."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:300
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:305
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:619
+msgid "All Sliders"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:620
+#: ../framework/plugins/LayerSlider/list.php:25
+msgid "Add New"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:622
+msgid "Transition Builder"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:623
+msgid "Custom Styles Editor"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:876
+#: ../framework/plugins/LayerSlider/layerslider.php:973
+msgid "It looks like your files isn't writable, so PHP couldn't make any changes (CHMOD)."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:876
+#: ../framework/plugins/LayerSlider/layerslider.php:973
+msgid "Cannot write to file"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1037
+msgid "Invalid shortcode"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1057
+msgid "Slider not found"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1089
+msgid "The new version of LayerSlider WP is almost ready!"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1091
+msgid "For a faster and more reliable solution, LayerSlider WP needs to convert your data associated with the plugin. Your sliders and settings will remain still, and it only takes a click on this button."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1093
+msgid "Convert Data"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1352
+msgid "Insert a slider with LayerSlider WP Widget"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1354
+msgid "LayerSlider WP Widget"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1386
+msgid "LayerSlider"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1402
+msgid "Choose a slider:"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1415
+msgid "You didn't create any slider yet."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/layerslider.php:1420
+msgid "Title:"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:24
+msgid "LayerSlider sliders"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:26
+msgid "Import sample sliders"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:34
+msgid "Name"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:35
+msgid "Shortcode"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:36
+msgid "Actions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:37
+msgid "Created"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:38
+msgid "Modified"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:50
+msgid "Edit"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:51
+msgid "Duplicate"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:52
+msgid "Remove"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:61
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:71
+msgid "Auto-updates"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:75
+msgid "Purchase code"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:78
+msgid "To receive auto-updates, you need to enter your item purchase code. You can find it on your CodeCanyon downloads page, just click on the \"Licence Certificate\" button of the corresponding item. This will download a text file which contains your purchase code."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:104
+msgid "Permissions"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:108
+msgid "Custom capability"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:110
+msgid "If you want to give access for other users than admins to this page, you can specify a custom capability. You can find all the available capabilities on"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:110
+msgid "this page"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:124
+msgid "Import sliders"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:127
+msgid "Import"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:144
+msgid "Export sliders"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:147
+msgid "Place this export code into the import text field in your new site and press \"Import\"."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:166
+msgid "The documentation is here"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/list.php:166
+msgid "This is a WordPress contextual help menu, we use it to give you fast access to our documentation. Please keep in mind that because this menu is contextual, it only shows the relevant information to the page that you are currently viewing. So if you search something, you should visit the corresponding page first and then open this help menu."
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/style_editor.php:19
+msgid "LayerSlider Custom Styles Editor"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/style_editor.php:29
+msgid "Contents of your custom CSS file"
+msgstr ""
+
+#: ../framework/plugins/LayerSlider/style_editor.php:35
+msgid "You need to make your uploads folder writable before you can save your changes. See the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target=\"_blank\">Codex</a> for more information."
+msgstr ""
+
+#: ../framework/plugins/revslider/inc_php/revslider_widget.class.php:8
+msgid "Displays a revolution slider on the page"
+msgstr ""
+
+#: ../framework/plugins/revslider/inc_php/revslider_widget.class.php:9
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../framework/plugins/revslider/inc_php/revslider_widget.class.php:22
+msgid "No sliders found, Please create a slider"
+msgstr ""
+
+#: ../loop/alert/no-search.php:17
+msgid "Sorry, but nothing matched your search criteria.<br /> Please try again with some different keywords."
+msgstr ""
+
+#: ../loop/alert/no-works.php:17
+msgid "There are no items to display.<br /> Please add at least one work."
+msgstr ""
+
+#: ../loop/alert/page-password.php:25
+msgid "This PAGE is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/alert/page-password.php:25
+msgid "Submit"
+msgstr ""
+
+#: ../loop/alert/post-password.php:25
+msgid "This POST is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/alert/work-password.php:25
+msgid "This WORK post is password protected.<br /> To view it please enter your password:"
+msgstr ""
+
+#: ../loop/post/tags.php:18
+msgid "Tags"
+msgstr ""
+
+#: ../loop/total/load-more.php:15
+#: ../loop/total/load-more.php:16
+msgid "Load More"
+msgstr ""
+
+#: ../templates/contact_form.php:29
+msgid "Subject "
+msgstr ""
+
+#: ../templates/contact_form.php:35
+msgid "Your Message..."
+msgstr ""
+
+#: ../templates/contact_form.php:40
+msgid "Send Message"
+msgstr ""
+
+#: ../templates/contact_form.php:44
+msgid "Are You a Human?"
+msgstr ""
+
+#: ../templates/contact_form.php:46
+msgid "Enter the sum of "
+msgstr ""
+
+#: ../templates/contact_form.php:48
+msgid " below to prove you are a human."
+msgstr ""
+

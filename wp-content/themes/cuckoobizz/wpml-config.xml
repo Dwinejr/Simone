@@ -1,0 +1,15 @@
+<wpml-config>
+   <custom-types>
+       <custom-type translate="1">works</custom-type>
+       <custom-type translate="1">testimonials</custom-type>
+       <custom-type translate="1">team</custom-type>
+       <custom-type translate="1">cuckoolove</custom-type>
+   </custom-types>
+   <taxonomies>
+       <taxonomy translate="1">types</taxonomy>
+       <taxonomy translate="1">custom_galleries</taxonomy>
+       <taxonomy translate="1">team-categories</taxonomy>
+   </taxonomies>
+</wpml-config> 
+
+

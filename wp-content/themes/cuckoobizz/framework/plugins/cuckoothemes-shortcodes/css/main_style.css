@@ -1,0 +1,40 @@
+/*
+ * @version	1.0.0
+ * @since 1.0
+ * @package	CuckooShortcode
+ * @author CuckooThemes
+ * @css Main Style
+*/
+
+.float_left .title-item { display:table-cell; font-weight:normal; }
+.with20margin { width:100%; }
+.drag-container .col-1  { display: block; float: left; margin: 0 4% 0 0; width: 48%; }
+.drag-container .col-1.colmarginBottom  { margin: 0 4% 20px 0; }
+.drag-container .col-4  { display: block; float: left; margin: 0 4% 0 0; width: 21.85%; }
+.drag-container .col-4.colmarginBottom  { margin: 0 4% 20px 0; }
+.drag-container .full-width-element  { display: block; float: left; width: 100%; }
+.drag-container .full-width-element.colmarginBottom  { margin-bottom:20px; }
+.drag-container .full-width-element textarea  { width: 100%; min-width:100%; max-width:100%; min-height:40px; }
+.drag-container .section-title-collapse  { width: 100%; padding:10px 0 30px; margin-bottom:20px; border-bottom:2px solid #D6D6D6; float: left; height: 15px; }
+.drag-container .section-title-collapse h3  { font-weight:bold; font-size:15px; float: left; margin:0; }
+.drag-container .section-title-collapse span  { font-size:12px; float: right; margin-right:55px; }
+.marker-section { border-top:1px solid #D6D6D6; float:left; padding:20px 0 0; position:relative; }
+span.remove-marker { position:absolute; right:0; top:15px; display:block; width:16px; height:16px; background: url(../img/remove.png) no-repeat; cursor:pointer; } 
+.add-marker, .add-shortcode { background: url(../img/blue_click.png) repeat-x scroll 0 0 rgba(0, 0, 0, 0); top: -7px; font-size: 12px!important; font-weight: 400!important; border: 1px solid #227399; border-radius: 5px 5px 5px 5px; cursor: pointer;  padding: 5px; text-align:center; color:#fff; position: relative; width: 80px; }
+.add-marker:hover, .add-shortcode:hover {  box-shadow: 0 0 0 3px #93C2D8; }
+.section input.shortcode_remove {  background: url(../img/white_click.png) repeat-x scroll 0 0 rgba(0, 0, 0, 0);  border: 1px solid #BBBBBB; border-radius: 5px 5px 5px 5px; color: #555555;  cursor: pointer;  height: 30px; margin: 0;  position: relative;  right: 0; top: 0 !important; width: 100px; }
+.section-collapse { display:block; position:relative; float: left; width:100%; }
+.section-collapse div.current-element { position:absolute; cursor:pointer; display: block; height: 30px; top: -75px; right:0; width: 30px; }
+.section-collapse div.current-element:hover { border-radius: 5px 5px 5px 5px; box-shadow: 0 0 0 3px #D6D6D6; }
+.section-collapse div.current-element.close { background: url(../img/plus.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+.section-collapse div.current-element.open { background: url(../img/minus.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+.section-collapse div.close-elements { display:none; }
+.close-elements .wp-picker-container .wp-picker-input-wrap .button.button-small { float:none; width:auto; top:0; border-radius: 3px 3px 3px 3px; }
+.close-elements .wp-picker-container .wp-picker-input-wrap .button.button-small:hover { box-shadow: none; }
+.pick-cuckoo b { margin-right:10px; display:inline-block; vertical-align:top; }
+.pick-cuckoo  { float:left; display:block; margin-bottom: 10px; }
+.not_active_input { display:block; width:100%; padding-bottom:20px; }
+.not_active_input b { margin-right: 20px;}
+.not_active_input input.regular-text-cuckoo { width:88%; }
+.title_container_main .title-item { display:inline-block; width: 38%; top:6px; position:relative;  }
+.map-shortcode { display:inline-block; }

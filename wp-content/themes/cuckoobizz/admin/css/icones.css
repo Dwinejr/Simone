@@ -1,0 +1,33 @@
+/**************
+ * @package WordPress
+ * @subpackage Cuckoothemes
+ * @since Cuckoothemes 1.0
+ **************/
+/* menu icons in dashboard */
+
+#menu-posts-testimonials .wp-menu-image {
+	background: url('../icones/testimonials.png') no-repeat 6px -17px !important;
+}
+
+#menu-posts-works .wp-menu-image {
+	background: url('../icones/works.png') no-repeat 6px -17px !important;
+}
+
+#menu-posts-team .wp-menu-image {
+	background: url('../icones/team.png') no-repeat 6px -17px !important;
+}
+
+#toplevel_page_cuckoolove .wp-menu-image {
+	background: url('../icones/icon-love.png') no-repeat 6px -17px !important;
+}
+
+#menu-posts-testimonials:hover .wp-menu-image,
+#menu-posts-testimonials.wp-has-current-submenu .wp-menu-image,
+#menu-posts-works:hover .wp-menu-image,
+#menu-posts-works.wp-has-current-submenu .wp-menu-image ,
+#menu-posts-team:hover .wp-menu-image,
+#menu-posts-team.wp-has-current-submenu .wp-menu-image ,
+#toplevel_page_cuckoolove:hover .wp-menu-image,
+#toplevel_page_cuckoolove.current .wp-menu-image {
+	background-position: 6px 7px!important;
+}

@@ -1,0 +1,1 @@
+Please check the help section on admin panel or enclosed theme documentation pdf file.
